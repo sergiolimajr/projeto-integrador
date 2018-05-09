@@ -1,0 +1,443 @@
+[
+    {
+        "id": "596e172e8c36c75d14a5a8a7",
+        "name": "Agência Reguladora de Serviços Públicos",
+        "active": "true",
+        "acronym": "ARSAL",
+        "nature": "estadual"
+    },
+    {
+        "id": "57501cd88c36c718eb000009",
+        "name": "Agência de Defesa e Inspeção Agropecuária de Alagoas",
+        "active": "true",
+        "acronym": "ADEAL",
+        "nature": "estadual"
+    },
+    {
+        "id": "5975f13e8c36c75066f55800",
+        "name": "Agência de Modernização da Gestão de Processos",
+        "active": "true",
+        "acronym": "AMGESP",
+        "nature": "estadual"
+    },
+    {
+        "id": "577546098c36c702ca000002",
+        "name": "Alagoas Previdência - Unidade Gestora Única do Regime Próprio de Previdência Social de Alagoas",
+        "active": "true",
+        "acronym": "Alagoas Previdência",
+        "nature": "estadual"
+    },
+    {
+        "id": "57b1ecb08c36c75e61000006",
+        "name": "Associação Comercial",
+        "active": "false",
+        "acronym": "Associação Comercial",
+        "nature": "outros"
+    },
+    {
+        "id": "5a16d5be547bb32a341abae9",
+        "name": "Associação Comercial de Maceió",
+        "active": "true",
+        "acronym": "ACM",
+        "nature": "municipal"
+    },
+    {
+        "id": "5a05d7c9547bb337d23da50c",
+        "name": "Companhia Alagoana de Recursos Humanos e Patrimoniais",
+        "active": "true",
+        "acronym": "CARHP",
+        "nature": "estadual"
+    },
+    {
+        "id": "56d6d7fb8c36c706ac000003",
+        "name": "Companhia de Saneamento do Estado de Alagoas",
+        "active": "true",
+        "acronym": "CASAL",
+        "nature": "estadual"
+    },
+    {
+        "id": "588bae3e8c36c708b4355182",
+        "name": "Controladoria Geral do Estado",
+        "active": "true",
+        "acronym": "CGE",
+        "nature": "estadual"
+    },
+    {
+        "id": "590b70c68c36c71e8623bb3d",
+        "name": "Corpo de Bombeiros Militar de Alagoas",
+        "active": "true",
+        "acronym": "CBMAL",
+        "nature": "estadual"
+    },
+    {
+        "id": "57501ee98c36c718eb00000b",
+        "name": "Defensoria Pública do Estado de Alagoas",
+        "active": "true",
+        "acronym": "Defensoria",
+        "nature": "estadual"
+    },
+    {
+        "id": "5a749114547bb357304fa309",
+        "name": "Defesa Civíl",
+        "active": "true",
+        "acronym": "Defesa Civíl",
+        "nature": "estadual"
+    },
+    {
+        "id": "56d6ddc18c36c706ac000004",
+        "name": "Departamento Estadual de Trânsito de Alagoas",
+        "active": "true",
+        "acronym": "DETRAN",
+        "nature": "estadual"
+    },
+    {
+        "id": "5975ee148c36c75066f557fd",
+        "name": "Departamento de Estradas de Rodagem de Alagoas",
+        "active": "true",
+        "acronym": "DER-AL",
+        "nature": "estadual"
+    },
+    {
+        "id": "590b2c0a8c36c76305bd6327",
+        "name": "Desenvolve - Agência de Fomento de Alagoas S/A",
+        "active": "true",
+        "acronym": "Desenvolve",
+        "nature": "estadual"
+    },
+    {
+        "id": "590b30f58c36c76305bd6328",
+        "name": "Diretoria de Teatros do Estado de Alagoas",
+        "active": "true",
+        "acronym": "DITEAL",
+        "nature": "estadual"
+    },
+    {
+        "id": "596ce1af8c36c71b0b29f7a4",
+        "name": "EMATER - Instituto de Inovação para o Desenvolvimento Rural Sustentável de Alagoas",
+        "active": "true",
+        "acronym": "EMATER",
+        "nature": "estadual"
+    },
+    {
+        "id": "5a15bfcb547bb36c51ab7864",
+        "name": "Eletrobras Distribuição Alagoas",
+        "active": "true",
+        "acronym": "Eletrobras",
+        "nature": "nacional"
+    },
+    {
+        "id": "5a4d152b547bb36ab17faae5",
+        "name": "Exército Brasileiro",
+        "active": "true",
+        "acronym": "Exército Brasileiro",
+        "nature": "nacional"
+    },
+    {
+        "id": "590a1de08c36c7298d7ee868",
+        "name": "Fundação de Amparo à Pesquisa do Estado de Alagoas",
+        "active": "true",
+        "acronym": "FAPEAL",
+        "nature": "estadual"
+    },
+    {
+        "id": "596cd96b8c36c726a878bbcb",
+        "name": "Gabinete Civil do Governador",
+        "active": "true",
+        "acronym": "Gabinete Civil",
+        "nature": "estadual"
+    },
+    {
+        "id": "5908c3188c36c756f6a837b2",
+        "name": "Gás de Alagoas",
+        "active": "true",
+        "acronym": "ALGÁS",
+        "nature": "estadual"
+    },
+    {
+        "id": "596e43e18c36c775620b3b6e",
+        "name": "Imprensa Oficial Graciliano Ramos",
+        "active": "true",
+        "acronym": "CEPAL",
+        "nature": "estadual"
+    },
+    {
+        "id": "596e48978c36c7078649c047",
+        "name": "Instituto Zumbi dos Palmares",
+        "active": "true",
+        "acronym": "IZP",
+        "nature": "estadual"
+    },
+    {
+        "id": "590880628c36c708368e836e",
+        "name": "Instituto de Assistência à Saúde dos Servidores do Estado de Alagoas",
+        "active": "true",
+        "acronym": "IPASEAL SAÚDE",
+        "nature": "estadual"
+    },
+    {
+        "id": "596e45fb8c36c705d7b97087",
+        "name": "Instituto de Desenvolvimento Rural e Abastecimento de Alagoas",
+        "active": "true",
+        "acronym": "IDERAL",
+        "nature": "estadual"
+    },
+    {
+        "id": "5975f20f8c36c75066f55801",
+        "name": "Instituto de Metrologia e Qualidade de Alagoas",
+        "active": "true",
+        "acronym": "INMEQ",
+        "nature": "estadual"
+    },
+    {
+        "id": "590a38a68c36c731c7c20e8b",
+        "name": "Instituto de Tecnologia em Informática e Informação do Estado de Alagoas",
+        "active": "true",
+        "acronym": "ITEC",
+        "nature": "estadual"
+    },
+    {
+        "id": "596e46de8c36c7078649c046",
+        "name": "Instituto de Terras e Reforma Agrária de Alagoas",
+        "active": "true",
+        "acronym": "ITERAL",
+        "nature": "estadual"
+    },
+    {
+        "id": "57617efd8c36c7464f000000",
+        "name": "Instituto do Meio Ambiente",
+        "active": "true",
+        "acronym": "IMA",
+        "nature": "estadual"
+    },
+    {
+        "id": "590a117e8c36c705ff74cad0",
+        "name": "Junta Comercial do Estado de Alagoas",
+        "active": "true",
+        "acronym": "JUCEAL",
+        "nature": "estadual"
+    },
+    {
+        "id": "56d6de778c36c706ac000006",
+        "name": "Perícia Oficial do Estado de Alagoas",
+        "active": "true",
+        "acronym": "POAL",
+        "nature": "estadual"
+    },
+    {
+        "id": "5975ec948c36c75066f557fc",
+        "name": "Polícia Civil do Estado de Alagoas",
+        "active": "true",
+        "acronym": "Polícia Civíl",
+        "nature": "estadual"
+    },
+    {
+        "id": "5a16d404547bb32a441abae8",
+        "name": "Polícia Federal",
+        "active": "true",
+        "acronym": "PF",
+        "nature": "nacional"
+    },
+    {
+        "id": "5975e72b8c36c75066f557f5",
+        "name": "Polícia Militar do Estado de Alagoas",
+        "active": "true",
+        "acronym": "PM AL",
+        "nature": "estadual"
+    },
+    {
+        "id": "5975e7cc8c36c75066f557f6",
+        "name": "Procuradoria Geral do Estado",
+        "active": "true",
+        "acronym": "PGE",
+        "nature": "estadual"
+    },
+    {
+        "id": "5a16bae3547bb310b13fd80a",
+        "name": "Secretaria Municipal de Economia",
+        "active": "true",
+        "acronym": "SEMEC",
+        "nature": "municipal"
+    },
+    {
+        "id": "590b28bf8c36c76305bd6326",
+        "name": "Secretaria de Estado da Agricultura, Pecuária, Pesca e Aquicultura",
+        "active": "true",
+        "acronym": "SEAGRI",
+        "nature": "estadual"
+    },
+    {
+        "id": "590a3bcd8c36c731c7c20e8c",
+        "name": "Secretaria de Estado da Assistência e Desenvolvimento Social",
+        "active": "true",
+        "acronym": "SEADES",
+        "nature": "estadual"
+    },
+    {
+        "id": "588baf3e8c36c708b4355183",
+        "name": "Secretaria de Estado da Ciência, da Tecnologia, e da Inovação",
+        "active": "true",
+        "acronym": "SECTI",
+        "nature": "estadual"
+    },
+    {
+        "id": "588bb11a8c36c708b4355184",
+        "name": "Secretaria de Estado da Comunicação",
+        "active": "true",
+        "acronym": "SECOM",
+        "nature": "estadual"
+    },
+    {
+        "id": "596e4b0f8c36c70a18c2cc90",
+        "name": "Secretaria de Estado da Cultura de Alagoas",
+        "active": "true",
+        "acronym": "SECULT",
+        "nature": "estadual"
+    },
+    {
+        "id": "5908eaf78c36c7723803da8f",
+        "name": "Secretaria de Estado da Educação",
+        "active": "true",
+        "acronym": "SEDUC",
+        "nature": "estadual"
+    },
+    {
+        "id": "5750117e8c36c718eb000005",
+        "name": "Secretaria de Estado da Fazenda",
+        "active": "true",
+        "acronym": "SEFAZ",
+        "nature": "estadual"
+    },
+    {
+        "id": "5975e68f8c36c75066f557f4",
+        "name": "Secretaria de Estado da Infraestrutura",
+        "active": "true",
+        "acronym": "SEINFRA",
+        "nature": "estadual"
+    },
+    {
+        "id": "5908e8138c36c7723803da8e",
+        "name": "Secretaria de Estado da Mulher e dos Direitos Humanos",
+        "active": "true",
+        "acronym": "SEMUDH",
+        "nature": "estadual"
+    },
+    {
+        "id": "5975ea488c36c75066f557f9",
+        "name": "Secretaria de Estado da Prevenção à Violência",
+        "active": "true",
+        "acronym": "Seprev",
+        "nature": "estadual"
+    },
+    {
+        "id": "596e4d008c36c70a18c2cc92",
+        "name": "Secretaria de Estado da Saúde",
+        "active": "true",
+        "acronym": "SESAU",
+        "nature": "estadual"
+    },
+    {
+        "id": "5975e9298c36c75066f557f8",
+        "name": "Secretaria de Estado de Ressocialização e Inclusão Social",
+        "active": "true",
+        "acronym": "SERIS",
+        "nature": "estadual"
+    },
+    {
+        "id": "5975ec048c36c75066f557fb",
+        "name": "Secretaria de Estado de Transporte e Desenvolvimento Urbano",
+        "active": "true",
+        "acronym": "Setrand",
+        "nature": "estadual"
+    },
+    {
+        "id": "590a256e8c36c731c7c20e88",
+        "name": "Secretaria de Estado do Desenvolvimento Econômico e Turismo",
+        "active": "true",
+        "acronym": "SEDETUR",
+        "nature": "estadual"
+    },
+    {
+        "id": "596e4b6c8c36c70a18c2cc91",
+        "name": "Secretaria de Estado do Esporte, Lazer e Juventude de Alagoas",
+        "active": "true",
+        "acronym": "SELAJ",
+        "nature": "estadual"
+    },
+    {
+        "id": "576c1f518c36c72a90000000",
+        "name": "Secretaria de Estado do Meio Ambiente e dos Recursos Hídricos",
+        "active": "true",
+        "acronym": "SEMARH",
+        "nature": "estadual"
+    },
+    {
+        "id": "56d723238c36c73983000000",
+        "name": "Secretaria de Estado do Planejamento, Gestão e Patrimônio",
+        "active": "true",
+        "acronym": "SEPLAG",
+        "nature": "estadual"
+    },
+    {
+        "id": "56df02e98c36c74559000000",
+        "name": "Secretaria de Estado do Trabalho e Emprego",
+        "active": "true",
+        "acronym": "SETE",
+        "nature": "estadual"
+    },
+    {
+        "id": "5975e8a18c36c75066f557f7",
+        "name": "Secretaria de Segurança Pública",
+        "active": "true",
+        "acronym": "SSP",
+        "nature": "estadual"
+    },
+    {
+        "id": "57754bce8c36c702ca000003",
+        "name": "Serviço Brasileiro de apoio às Micro e Pequenas Empresas",
+        "active": "false",
+        "acronym": "SEBRAE",
+        "nature": "outros"
+    },
+    {
+        "id": "577e999e8c36c72d65000000",
+        "name": "Superintendencia Municipal de Transportes e Transito de Maceió",
+        "active": "true",
+        "acronym": "SMTT",
+        "nature": "municipal"
+    },
+    {
+        "id": "5a16d2af547bb32a341abae8",
+        "name": "Superintendência Regional do Trabalho - SRT",
+        "active": "true",
+        "acronym": "SRT",
+        "nature": "nacional"
+    },
+    {
+        "id": "56d6e60b8c36c706ac000007",
+        "name": "Superintendência de Defesa e Proteção ao Consumidor",
+        "active": "true",
+        "acronym": "PROCON",
+        "nature": "estadual"
+    },
+    {
+        "id": "5a15bb6b547bb36c51ab7863",
+        "name": "Tribunal Regional Eleitoral",
+        "active": "true",
+        "acronym": "TRE",
+        "nature": "nacional"
+    },
+    {
+        "id": "5975ef298c36c75066f557fe",
+        "name": "Universidade Estadual de Alagoas",
+        "active": "true",
+        "acronym": "UNEAL",
+        "nature": "estadual"
+    },
+    {
+        "id": "5975fae08c36c76601b0494f",
+        "name": "Universidade Estadual de Ciências da Saúde de Alagoas",
+        "active": "true",
+        "acronym": "UNCISAL",
+        "nature": "estadual"
+    }
+]

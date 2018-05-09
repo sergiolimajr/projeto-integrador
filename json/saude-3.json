@@ -1,0 +1,3029 @@
+[
+    {
+        "id": "5aba5e79547bb35166ff9b3f",
+        "name": "ACOLHIMENTO DE ESCUTA AOS SERVIDORES",
+        "active": null,
+        "description": "AÇÃO EM PRÁTICA PARA EVIDENCIAR A IMPORTÂNCIA DA ESCUTA QUALIFICADA  AO SERVIDOR E A VALORIZAÇÃO DO  TRABALHO EM EQUIPE NO HOSPITAL HELVIO AUTO.\n\nTEM COMO OBJETIVO PROPORCIONAR ESPAÇOS DE ESCUTA E ACOLHIMENTO PARA O SERVIDOR NA PERSPECTIVA DE ANALISAR OS PROCESSOS DE TRABALHO VINCULADOS AO SETOR.\n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5aba5e79547bb35166ff9b3f/acolhimento-de-escuta-aos-servidores",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "27/03/2018 12:08",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5abb9af6547bb358819c13c5",
+        "name": "Acolhimento de Residentes de empresas conveniadas",
+        "active": null,
+        "description": "Inserção dos Residentes em atividades práticas para cumprimento de carga horária referente a Residência.\n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5abb9af6547bb358819c13c5/acolhimento-de-residentes-de-empresas-conveniadas",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "28/03/2018 10:39",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5abb9e7b547bb312ce85b58e",
+        "name": "Acompanhamento Nutricional do Servidor",
+        "active": null,
+        "description": "Atendimento nutricional e acompanhamento individualizado do servidor do HEHA.\n\nA marcação é feita de forma presencial ou por telefone no próprio SESMT/HEHA – 3315-3248, de segunda a sexta das 7h às 19h.\n\n \n\n \n",
+        "popular_names": [
+            {
+                "name": "Consulta do servidor com a nutricionista"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5abb9e7b547bb312ce85b58e/acompanhamento-nutricional-do-servidor",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "28/03/2018 10:54",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5abbadb6547bb312ce85b590",
+        "name": "Advertência disciplinar",
+        "active": null,
+        "description": "É uma penalidade disciplinar, aplicada por escrito, nos casos de violação de proibição constante do Art. 119, incisos I a VIII, e de inobservância de dever funcional previsto em lei, regulamentação ou norma interna, que não justifique imposição de penalidade mais grave. (Regime Jurídico Único, Artigos 129 a 131).\n",
+        "popular_names": [
+            {
+                "name": "Advertência"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5abbadb6547bb312ce85b590/advertencia-disciplinar",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "28/03/2018 11:59",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac20fe0547bb312ce85b592",
+        "name": "Atendimento ambulatorial médico a crianças com microcefalia associada à síndrome Congênita do vírus Zika",
+        "active": null,
+        "description": "Atendimento com médico pediatra, neuropediatra e equipe multiprofissional a crianças com microcefalia associada à Síndrome Congênita do Vírus Zika.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento médico a crianças com microcefalia decorrente de Zika"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac20fe0547bb312ce85b592/atendimento-ambulatorial-medico-a-criancas-com-microcefalia-associada-a-sindrome-congenita-do-virus-zika",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 08:11",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac2152f547bb312ce85b594",
+        "name": "Atendimento ambulatorial médico a profissionais que sofreram acidentes de trabalho com material biológico.",
+        "active": null,
+        "description": "Consulta médica com infectologista para acompanhamento ambulatorial a profissionais ou estudantes que sofreram acidentes de trabalho e entraram em contato com material biológico (por meio de dispositivos perfurocortantes ou outra forma).\n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac2152f547bb312ce85b594/atendimento-ambulatorial-medico-a-profissionais-que-sofreram-acidentes-de-trabalho-com-material-biologico",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 08:34",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac219d1547bb312ce85b596",
+        "name": "Atendimento ambulatorial médico a usuários que tiveram exposição sexual desprotegida para acompanhamento de Profilaxia Pós-Exposição (PEP).",
+        "active": null,
+        "description": "Atendimento ambulatorial médico (com o infectologista) para usuários que tiveram exposição sexual desprotegida e já fizeram uso de medicação no procedimento de Profilaxia Pós-Exposição (PEP).\n",
+        "popular_names": [
+            {
+                "name": "Atendimento médico a usuários que tiveram exposição sexual desprotegida."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac219d1547bb312ce85b596/atendimento-ambulatorial-medico-a-usuarios-que-tiveram-exposicao-sexual-desprotegida-para-acompanhamento-de-profilaxia-pos-exposicao-pep",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 08:53",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac21c5b547bb312ce85b598",
+        "name": "Atendimento ambulatorial médico em infectologia geral.",
+        "active": null,
+        "description": "",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac21c5b547bb312ce85b598/atendimento-ambulatorial-medico-em-infectologia-geral",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 09:04",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac21ef1547bb312ce85b59a",
+        "name": "Atendimento ambulatorial médico para pessoas que viajam para áreas de risco no Brasil ou viagens internacionais.",
+        "active": null,
+        "description": "Trata-se de um serviço ambulatorial médico especializado em atender usuários que vão realizar alguma viagem para áreas de risco no Brasil e para qualquer viagem internacional.\n\nAlgumas viagens domésticas e todas as viagens internacionais precisam de orientação médica especializada, alguns países exigem, inclusive, um certificado de saúde para permitir a entrada de estrangeiros em seus territórios. O ambulatório é destinado a quem vai viajar, como também, para quem voltou de alguma viagem e começou a apresentar algum sintoma que tenha relação com o período que passou fora.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento ambulatorial de medicina do viajante."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac21ef1547bb312ce85b59a/atendimento-ambulatorial-medico-para-pessoas-que-viajam-para-areas-de-risco-no-brasil-ou-viagens-internacionais",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 09:15",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac2211a547bb312ce85b59c",
+        "name": "Atendimento ao Público Interno",
+        "active": null,
+        "description": "É um serviço de atendimento às lideranças e demais servidores para tratar de assuntos diversos (geralmente sobre relacionamento interpessoal ou processo de trabalho), com demanda espontânea ou com agendamento.\n",
+        "popular_names": [
+            {
+                "name": "Acolhimento / Escuta"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac2211a547bb312ce85b59c/atendimento-ao-publico-interno",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 09:24",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac225d4547bb35388b64057",
+        "name": "Orientação documental aos servidores",
+        "active": null,
+        "description": "Atender aos servidores sanando suas dúvidas e solucionando eventuais dificuldades e questionamentos, além de emissões de documentos.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento ao servidor (Setor de Pessoal)"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac225d4547bb35388b64057/orientacao-documental-aos-servidores",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 09:45",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac227eb547bb312ce85b59e",
+        "name": "Atendimento de Enfermagem (nível superior) em Atenção Especializada – AIDS – 1ª vez",
+        "active": null,
+        "description": "Procedimento de atendimento de Enfermagem (enfermeira) para cidadão que apresenta diagnóstico de AIDS (que é diferente de quem é apenas portador do vírus HIV).\n",
+        "popular_names": [
+            {
+                "name": "Atendimento da Enfermeira para acompanhamento de AIDS"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac227eb547bb312ce85b59e/atendimento-de-enfermagem-nivel-superior-em-atencao-especializada-aids-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 09:54",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac22aad547bb312ce85b5a0",
+        "name": "Atendimento de Enfermagem (nível superior) em Atenção Especializada para Hepatite A – 1ª vez.",
+        "active": null,
+        "description": "Procedimento de atendimento de enfermagem (enfermeira) para cidadão que apresenta diagnóstico de Hepatite do tipo A.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento da enfermeira para acompanhamento de  Hepatite A."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac22aad547bb312ce85b5a0/atendimento-de-enfermagem-nivel-superior-em-atencao-especializada-para-hepatite-a-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 10:05",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac22e1d547bb3572537ec31",
+        "name": "Atendimento de Enfermagem (nível superior) em Atenção Especializada para Hepatite B -1ª vez",
+        "active": null,
+        "description": "Procedimento de atendimento em Enfermagem (enfermeira) para cidadão que apresenta diagnóstico de Hepatite do tipo B.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento da enfermeira para acompanhamento Hepatite B."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac22e1d547bb3572537ec31/atendimento-de-enfermagem-nivel-superior-em-atencao-especializada-para-hepatite-b-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 10:20",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac22fdd547bb312ce85b5a3",
+        "name": "Atendimento de Enfermagem (nível superior) em Atenção Especializada para Hepatite C – 1ª vez.",
+        "active": null,
+        "description": "Procedimento de atendimento em Enfermagem (enfermeira) para cidadão que apresenta diagnóstico de Hepatite do tipo C.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento da enfermeira para acompanhamento de Hepatite C"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac22fdd547bb312ce85b5a3/atendimento-de-enfermagem-nivel-superior-em-atencao-especializada-para-hepatite-c-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 10:27",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac240d4547bb312ce85b5a6",
+        "name": "Atendimento de Enfermagem (nível superior) em Atenção Especializada – HIV – 1ª vez",
+        "active": null,
+        "description": "Procedimento de atendimento de Enfermagem (enfermeira) para cidadão que apresenta diagnóstico de HIV reagente (positivo).\n",
+        "popular_names": [
+            {
+                "name": "Atendimento da Enfermeira para acompanhamento de pacientes com HIV"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac240d4547bb312ce85b5a6/atendimento-de-enfermagem-nivel-superior-em-atencao-especializada-hiv-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 11:40",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac24338547bb312ce85b5a8",
+        "name": "Atendimento de Enfermagem (nível superior) em Atenção Especializada para HTLV – 1ª vez",
+        "active": null,
+        "description": "Procedimento de atendimento em Enfermagem (enfermeira) para cidadão que apresenta  diagnóstico de infecção por vírus HTLV.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento da enfermeira para acompanhamento de HTLV"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac24338547bb312ce85b5a8/atendimento-de-enfermagem-nivel-superior-em-atencao-especializada-para-htlv-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 11:50",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac24dd5547bb312ce85b5aa",
+        "name": "Atendimento de Enfermagem (nível superior) em Atenção Especializada para tuberculose como coinfecção do HIV-AIDS – 1ª vez",
+        "active": null,
+        "description": "Procedimento de atendimento em Enfermagem (enfermeira) para cidadão que apresenta  diagnóstico de infecção por tuberculose como doença oportunista à infecção do HIV-AIDS.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento da enfermeira para acompanhamento da Tuberculose/HIV- AIDS"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac24dd5547bb312ce85b5aa/atendimento-de-enfermagem-nivel-superior-em-atencao-especializada-para-tuberculose-como-coinfeccao-do-hiv-aids-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 12:35",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac25064547bb312ce85b5ac",
+        "name": "Atendimento do assistente social em Atenção Especializada – AIDS – 1ª vez",
+        "active": null,
+        "description": "Atendimento do assistente social para cidadão que apresenta diagnóstico de AIDS (que é diferente de quem é apenas portador do vírus HIV).\n",
+        "popular_names": [
+            {
+                "name": "Atendimento do assistente social para acompanhamento de AIDS."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac25064547bb312ce85b5ac/atendimento-do-assistente-social-em-atencao-especializada-aids-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 12:46",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac2521b547bb312ce85b5ae",
+        "name": "Atendimento do Assistente Social em atenção especializada para Hepatite A - 1ª vez",
+        "active": null,
+        "description": "Atendimento do Assistente Social para cidadão que apresenta diagnóstico de Hepatite do tipo A.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento do assistente social para acompanhamento de Hepatite A."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac2521b547bb312ce85b5ae/atendimento-do-assistente-social-em-atencao-especializada-para-hepatite-a-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 12:54",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac25507547bb312ce85b5b0",
+        "name": "Atendimento do Assistente Social em atenção especializada para Hepatite B - 1ª vez",
+        "active": null,
+        "description": "Atendimento do Assistente Social para cidadão que apresenta diagnóstico de Hepatite do tipo B.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento do assistente social para acompanhamento de Hepatite B"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac25507547bb312ce85b5b0/atendimento-do-assistente-social-em-atencao-especializada-para-hepatite-b-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 13:06",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac257b2547bb312ce85b5b2",
+        "name": "Atendimento do Assistente Social em atenção especializada para Hepatite C - 1ª vez",
+        "active": null,
+        "description": "Atendimento do Assistente Social para cidadão que apresenta diagnóstico de Hepatite do tipo C.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento do assistente social para acompanhamento de Hepatite C."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac257b2547bb312ce85b5b2/atendimento-do-assistente-social-em-atencao-especializada-para-hepatite-c-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 13:17",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac25b0b547bb312ce85b5b5",
+        "name": "Atendimento do Assistente Social em Atenção Especializada – HIV – 1ª vez",
+        "active": null,
+        "description": "Atendimento do Assistente Social para cidadão que apresenta diagnóstico de HIV reagente (positivo).\n",
+        "popular_names": [
+            {
+                "name": "Atendimento do Assistente Social para acompanhamento de pacientes com HIV"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac25b0b547bb312ce85b5b5/atendimento-do-assistente-social-em-atencao-especializada-hiv-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 13:32",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac25d98547bb312ce85b5b7",
+        "name": "Atendimento do Assistente Social em atenção especializada para HTLV - 1ª vez",
+        "active": null,
+        "description": "Atendimento do Assistente Social para cidadão que apresenta diagnóstico de infecção por vírus HTLV.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento do assistente social para acompanhamento de HTLV."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac25d98547bb312ce85b5b7/atendimento-do-assistente-social-em-atencao-especializada-para-htlv-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 13:43",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac25f44547bb312ce85b5b9",
+        "name": "Atendimento do Assistente Social em atenção especializada para tuberculose como coinfecção do HIV-AIDS – 1ª vez",
+        "active": null,
+        "description": "Procedimento de atendimento da assistente social para cidadão que apresenta  diagnóstico de infecção por tuberculose como doença oportunista à infecção do HIV-AIDS.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento do Assistente Social para acompanhamento da Tuberculose/HIV- AIDS"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac25f44547bb312ce85b5b9/atendimento-do-assistente-social-em-atencao-especializada-para-tuberculose-como-coinfeccao-do-hiv-aids-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 13:50",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac260b0547bb312ce85b5bb",
+        "name": "Atendimento do farmacêutico em Atenção Especializada – AIDS – 1ª vez",
+        "active": null,
+        "description": "Atendimento do farmacêutico para cidadão que apresenta diagnóstico de AIDS (que é diferente de quem é apenas portador do vírus HIV). No atendimento, os remédios para AIDS serão entregues ao paciente, e este será orientado sobre a forma correta de tomar e os procedimentos que devem ser seguidos na boa administração dos antirretrovirais.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento do farmacêutico para acompanhamento de AIDS"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac260b0547bb312ce85b5bb/atendimento-do-farmaceutico-em-atencao-especializada-aids-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 13:56",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac261e4547bb312ce85b5bd",
+        "name": "Atendimento do farmacêutico em Atenção Especializada para tuberculose como coinfecção do HIV-AIDS – 1ª vez",
+        "active": null,
+        "description": "Atendimento do farmacêutico para cidadão que apresenta diagnóstico de tuberculose como coinfecção da AIDS. No atendimento, os remédios para tuberculose serão entregues ao paciente, e este será orientado sobre a forma correta de tomar e os procedimentos que devem ser seguidos na boa administração da medicação.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento do farmacêutico  para acompanhamento da Tuberculose/HIV- AIDS"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac261e4547bb312ce85b5bd/atendimento-do-farmaceutico-em-atencao-especializada-para-tuberculose-como-coinfeccao-do-hiv-aids-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 14:01",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac2a710547bb312ce85b5bf",
+        "name": "Atendimento do nutricionista em Atenção Especializada – AIDS – 1ª vez",
+        "active": null,
+        "description": "Atendimento do nutricionista ao cidadão que apresenta diagnóstico de AIDS (que é diferente de quem é apenas portador do vírus HIV).\n",
+        "popular_names": [
+            {
+                "name": "Atendimento do nutricionista para acompanhamento de AIDS."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac2a710547bb312ce85b5bf/atendimento-do-nutricionista-em-atencao-especializada-aids-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 18:56",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac2ac05547bb312ce85b5c1",
+        "name": "Atendimento do nutricionista em atenção especializada para Hepatite A - 1ª vez",
+        "active": null,
+        "description": "Atendimento do nutricionista para cidadão que apresenta diagnóstico de Hepatite do tipo A.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento do nutricionista para acompanhamento de Hepatite A."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac2ac05547bb312ce85b5c1/atendimento-do-nutricionista-em-atencao-especializada-para-hepatite-a-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 19:17",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac2bacb547bb312ce85b5c3",
+        "name": "Atendimento do nutricionista em atenção especializada para Hepatite B - 1ª vez",
+        "active": null,
+        "description": "Atendimento do nutricionista para cidadão que apresenta diagnóstico de Hepatite do tipo B.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento do nutricionista  para acompanhamento de Hepatite B."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac2bacb547bb312ce85b5c3/atendimento-do-nutricionista-em-atencao-especializada-para-hepatite-b-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "02/04/2018 20:20",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac376fd547bb312ce85b5c5",
+        "name": "Atendimento do nutricionista  em atenção especializada para Hepatite C - 1ª vez",
+        "active": null,
+        "description": "Atendimento do nutricionista para cidadão que apresenta diagnóstico de Hepatite do tipo C.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento do nutricionista  para acompanhamento de Hepatite C."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac376fd547bb312ce85b5c5/atendimento-do-nutricionista-em-atencao-especializada-para-hepatite-c-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 09:43",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac379f0547bb312ce85b5c7",
+        "name": "Atendimento do Nutricionista  em Atenção Especializada – HIV – 1ª vez",
+        "active": null,
+        "description": "Atendimento do Nutricionista  para cidadão que apresenta diagnóstico de HIV reagente (positivo).\n",
+        "popular_names": [
+            {
+                "name": "Atendimento do Nutricionista para acompanhamento de pacientes com HIV"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac379f0547bb312ce85b5c7/atendimento-do-nutricionista-em-atencao-especializada-hiv-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 09:56",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac37aeb547bb312ce85b5c9",
+        "name": "Exame Laboratorial – HIV",
+        "active": null,
+        "description": "Exame laboratorial de triagem para detectar a presença do vírus HIV. É um exame realizado a partir de uma amostra de sangue coletada pelo laboratório. \n",
+        "popular_names": [
+            {
+                "name": "Teste rápido"
+            },
+            {
+                "name": "Teste do HIV"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac37aeb547bb312ce85b5c9/exame-laboratorial-hiv",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "03/04/2018 10:00",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac37bd2547bb312ce85b5cb",
+        "name": "Atendimento do nutricionista em atenção especializada para HTLV - 1ª vez",
+        "active": null,
+        "description": "Atendimento do nutricionista para cidadão que apresenta diagnóstico de infecção por vírus HTLV.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento do nutricionista para acompanhamento de HTLV."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac37bd2547bb312ce85b5cb/atendimento-do-nutricionista-em-atencao-especializada-para-htlv-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 10:04",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac37e26547bb312ce85b5cc",
+        "name": "Teste rápido - HIV",
+        "active": null,
+        "description": "Exame laboratorial de triagem para detectar a presença do vírus HIV. É um exame realizado a partir de uma amostra de sangue coletada pelo laboratório. \n",
+        "popular_names": [
+            {
+                "name": "Teste do HIV"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac37e26547bb312ce85b5cc/teste-rapido-hiv",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "03/04/2018 10:14",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac37fed547bb312ce85b5cf",
+        "name": "Exame Laboratorial – HIV Western Blot",
+        "active": null,
+        "description": "Exame laboratorial que é utilizado para diferenciar HIV-1 e HIV-2 de HIV além de ser um teste confirmatório para amostras reagentes em teste de triagem.  É um exame realizado a partir de uma amostra de sangue coletada pelo laboratório. \n",
+        "popular_names": [
+            {
+                "name": "Teste para diferenciar HIV 1 e 2 (Confirmatório)"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac37fed547bb312ce85b5cf/exame-laboratorial-hiv-western-blot",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "03/04/2018 10:21",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac3804d547bb312ce85b5d0",
+        "name": "Atendimento do Nutricionista em atenção especializada para tuberculose como coinfecção do HIV-AIDS – 1ª vez",
+        "active": null,
+        "description": "Atendimento do nutricionista para cidadão que apresenta  diagnóstico de infecção por tuberculose como doença oportunista à infecção do HIV-AIDS.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento do Nutricionista para acompanhamento da Tuberculose/HIV- AIDS"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac3804d547bb312ce85b5d0/atendimento-do-nutricionista-em-atencao-especializada-para-tuberculose-como-coinfeccao-do-hiv-aids-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 10:23",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac38352547bb312ce85b5d3",
+        "name": "Atendimento do psicólogo em Atenção Especializada – AIDS – 1ª vez",
+        "active": null,
+        "description": "Atendimento do psicólogo para cidadão que apresenta diagnóstico de AIDS (que é diferente de quem é apenas portador do vírus HIV).\n",
+        "popular_names": [
+            {
+                "name": "Atendimento do psicólogo para acompanhamento de AIDS."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac38352547bb312ce85b5d3/atendimento-do-psicologo-em-atencao-especializada-aids-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 10:36",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac383c6547bb312ce85b5d4",
+        "name": "Exame Laboratorial – Leishmaniose (IFI)",
+        "active": null,
+        "description": "Exame laboratorial utilizado na detecção de anticorpos contra Leishmania em humanos.  É um exame realizado a partir de uma amostra de sangue coletada pelo laboratório.\n",
+        "popular_names": [
+            {
+                "name": "Exame de Leishmaniose"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac383c6547bb312ce85b5d4/exame-laboratorial-leishmaniose-ifi",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "03/04/2018 10:38",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac3853e547bb312ce85b5d7",
+        "name": "Atendimento do Psicólogo em atenção especializada para Hepatite A - 1ª vez",
+        "active": null,
+        "description": "Atendimento do psicólogo para cidadão que apresenta diagnóstico de Hepatite do tipo A.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento do psicólogo para acompanhamento de Hepatite A."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac3853e547bb312ce85b5d7/atendimento-do-psicologo-em-atencao-especializada-para-hepatite-a-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 10:44",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac386a3547bb312ce85b5d9",
+        "name": "Exame Laboratorial – Leptospirose",
+        "active": null,
+        "description": "Exame laboratorial utilizado no diagnóstico de Leptospirose.  É um exame realizado a partir de uma amostra de sangue coletada pelo laboratório.\n",
+        "popular_names": [
+            {
+                "name": "Exame de Leptospirose (doença do rato)"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac386a3547bb312ce85b5d9/exame-laboratorial-leptospirose",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "03/04/2018 10:50",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac3880c547bb309f7215898",
+        "name": "Atendimento do psicólogo em atenção especializada para Hepatite B - 1ª vez",
+        "active": null,
+        "description": "Atendimento do psicólogo para cidadão que apresenta diagnóstico de Hepatite do tipo B.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento do psicólogo para acompanhamento de Hepatite B."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac3880c547bb309f7215898/atendimento-do-psicologo-em-atencao-especializada-para-hepatite-b-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 10:56",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac38a07547bb312ce85b5db",
+        "name": "Atendimento do Psicólogo em atenção especializada para Hepatite C - 1ª vez",
+        "active": null,
+        "description": "Atendimento do Psicólogo para cidadão que apresenta diagnóstico de Hepatite do tipo C.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento do Psicólogo para acompanhamento de Hepatite C."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac38a07547bb312ce85b5db/atendimento-do-psicologo-em-atencao-especializada-para-hepatite-c-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 11:04",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac38dda547bb34a51327446",
+        "name": "Atendimento do Psicólogo em Atenção Especializada – HIV – 1ª vez",
+        "active": null,
+        "description": "Atendimento do Psicólogo para cidadão que apresenta diagnóstico de HIV reagente (positivo).\n",
+        "popular_names": [
+            {
+                "name": "Atendimento do Psicólogo para acompanhamento de pacientes com HIV"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac38dda547bb34a51327446/atendimento-do-psicologo-em-atencao-especializada-hiv-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 11:21",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac38f76547bb34a51327448",
+        "name": "Exame Laboratorial – Análise do Líquido Cefalorraqueano, Análise do Líquor (LCR)",
+        "active": null,
+        "description": "Exame laboratorial composto por um grupo de testes que podem ser solicitados e executados em uma amostra do LCR colhido do paciente na investigação de meningites e encefalites. É um exame realizado a partir de uma amostra de Líquor colhida pelo médico, em procedimento de punção lombar, coletada em recipiente próprio.  \n",
+        "popular_names": [
+            {
+                "name": "Exame do  Líquor"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac38f76547bb34a51327448/exame-laboratorial-analise-do-liquido-cefalorraqueano-analise-do-liquor-lcr",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "03/04/2018 11:28",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac3901a547bb34a5e327446",
+        "name": "Exame Laboratorial de dosagem de Magnésio Sérico",
+        "active": null,
+        "description": "Exame laboratorial para analisar as concentrações de Magnésio no sangue em geral como parte da avaliação da severidade de problemas renais, diabetes não controlada e podem ajudar no diagnóstico de distúrbios gastrointestinais ou como parte de uma avaliação de má-absorção ou  desnutrição. É um exame realizado a partir de uma amostra de sangue coletada em laboratório. \n",
+        "popular_names": [
+            {
+                "name": "Exame de Magnésio"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac3901a547bb34a5e327446/exame-laboratorial-de-dosagem-de-magnesio-serico",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "03/04/2018 11:30",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac390bb547bb34a5132744c",
+        "name": "Atendimento do psicólogo em atenção especializada para HTLV - 1ª vez",
+        "active": null,
+        "description": "Atendimento do psicólogo para cidadão que apresenta diagnóstico de infecção por vírus HTLV.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento do psicólogo para acompanhamento de HTLV."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac390bb547bb34a5132744c/atendimento-do-psicologo-em-atencao-especializada-para-htlv-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 11:33",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac39236547bb34a5132744e",
+        "name": "Atendimento do psicólogo em atenção especializada para tuberculose como coinfecção do HIV-AIDS – 1ª vez",
+        "active": null,
+        "description": "Atendimento do psicólogo para cidadão que apresenta  diagnóstico de infecção por tuberculose como doença oportunista à infecção do HIV-AIDS\n",
+        "popular_names": [
+            {
+                "name": "Atendimento do psicólogo para acompanhamento da Tuberculose/HIV- AIDS"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac39236547bb34a5132744e/atendimento-do-psicologo-em-atencao-especializada-para-tuberculose-como-coinfeccao-do-hiv-aids-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 11:39",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac3924a547bb34a5132744f",
+        "name": "Exame Laboratorial – Mononucleose (Paul Bunnel)",
+        "active": null,
+        "description": "Exame laboratorial utilizado no diagnóstico da Mononucleose.  É um exame realizado a partir de uma amostra de sangue coletada pelo laboratório.\n",
+        "popular_names": [
+            {
+                "name": "Exame de Mononucleose"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac3924a547bb34a5132744f/exame-laboratorial-mononucleose-paul-bunnel",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "03/04/2018 11:40",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac3943a547bb34a51327451",
+        "name": "Atendimento em Cardiologia  para pacientes do Serviço de Assistência Especializada do Hospital Escola Dr. Helvio Auto.",
+        "active": null,
+        "description": "Atendimento em Cardiologia  para pacientes do SAE- HEHA com indicação para acompanhamento.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento em Cardiologia  para pacientes do SAE - HEHA"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac3943a547bb34a51327451/atendimento-em-cardiologia-para-pacientes-do-servico-de-assistencia-especializada-do-hospital-escola-dr-helvio-auto",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 11:48",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac39626547bb34a51327453",
+        "name": "Atendimento em Dermatologia Geral e Infecciosa",
+        "active": null,
+        "description": "Atendimento em Dermatologia Geral e infecciosa para cidadão que apresenta  alguma alteração ou patologia na pele encaminhado de algum outro serviço de saúde.\n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac39626547bb34a51327453/atendimento-em-dermatologia-geral-e-infecciosa",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 11:56",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac39868547bb34a51327455",
+        "name": "Atendimento em Ginecologia e Obstetrícia para pacientes do Serviço de Assistência Especializada do Hospital Escola Dr. Helvio Auto.",
+        "active": null,
+        "description": "Atendimento em Ginecologia e Obstetrícia (pré-natal) para pacientes do Serviço de Assistência Especializada (SAE) do Hospital Escola Dr. Helvio Auto (HEHA) ou internas do HEHA, estejam elas grávidas ou não.\n",
+        "popular_names": [
+            {
+                "name": "Atendimento em Ginecologia e Obstetrícia para pacientes do SAE - HEHA"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac39868547bb34a51327455/atendimento-em-ginecologia-e-obstetricia-para-pacientes-do-servico-de-assistencia-especializada-do-hospital-escola-dr-helvio-auto",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 12:06",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac39afb547bb34a51327457",
+        "name": "Atualização de dados dos servidores",
+        "active": null,
+        "description": "Atualização de dados cadastrais dos servidores de acordo com alguma modificação.\n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac39afb547bb34a51327457/atualizacao-de-dados-dos-servidores",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 12:17",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac39f9b547bb34a51327459",
+        "name": "Banco de horas de cursos da Educação Permanente",
+        "active": null,
+        "description": "É um instrumento que serve para computar as horas de participação dos servidores nos eventos promovidos pelo Núcleo.\n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac39f9b547bb34a51327459/banco-de-horas-de-cursos-da-educacao-permanente",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 12:36",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac3a302547bb34a5132745a",
+        "name": "Busca ativa para os pacientes internados e atendidos no pronto atendimento e ambulatório da unidade hospitalar, para a detecção das doenças e agravos de notificação compulsória",
+        "active": null,
+        "description": "Trata-se de uma estratégia indispensável para a redução da possibilidade de não captação de um caso de agravo ou doença de notificação compulsória. Através deste é possível orientar os profissionais da saúde acerca do preenchimento da ficha de investigação epidemiológica, da coleta de exames específicos para diagnóstico e das medidas preventivas frente ao caso.\n",
+        "popular_names": [
+            {
+                "name": "Busca ativa de agravos de notificação compulsória"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac3a302547bb34a5132745a/busca-ativa-para-os-pacientes-internados-e-atendidos-no-pronto-atendimento-e-ambulatorio-da-unidade-hospitalar-para-a-deteccao-das-doencas-e-agravos-de-notificacao-compulsoria",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 12:51",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac3a85e547bb34a5132745c",
+        "name": "Recebimento de fichas cadastrais de prestadores de serviços",
+        "active": null,
+        "description": "Serviço necessário para o cadastro de dados pessoais do prestador de serviço nos controles internos da instituição.\n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac3a85e547bb34a5132745c/recebimento-de-fichas-cadastrais-de-prestadores-de-servicos",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 13:14",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac3d683547bb34a5132745e",
+        "name": "Consulta Médica em Atenção Especializada – AIDS – 1ª vez",
+        "active": null,
+        "description": "Procedimento de atendimento médico (infectologista) para cidadão que apresenta diagnóstico de AIDS (que é diferente de quem é apenas portador do vírus HIV).\n",
+        "popular_names": [
+            {
+                "name": "Consulta Médica de acompanhamento para AIDS"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac3d683547bb34a5132745e/consulta-medica-em-atencao-especializada-aids-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 16:31",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac3d7ef547bb34a51327460",
+        "name": "Consulta Médica em Atenção Especializada para Hepatite A – 1ª vez",
+        "active": null,
+        "description": "Procedimento de atendimento médico (infectologista) para cidadão que apresenta diagnóstico de Hepatite do tipo A.\n",
+        "popular_names": [
+            {
+                "name": "Consulta Médica de acompanhamento para Hepatite A"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac3d7ef547bb34a51327460/consulta-medica-em-atencao-especializada-para-hepatite-a-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 16:37",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac3dec2547bb34a51327462",
+        "name": "Consulta Médica em Atenção Especializada para Hepatite B – 1ª vez",
+        "active": null,
+        "description": "Procedimento de atendimento médico (infectologista) para cidadão que apresenta diagnóstico de Hepatite do tipo B.\n",
+        "popular_names": [
+            {
+                "name": "Consulta Médica de acompanhamento para Hepatite B"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac3dec2547bb34a51327462/consulta-medica-em-atencao-especializada-para-hepatite-b-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 17:06",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac3e05e547bb34a51327464",
+        "name": "Consulta Médica em Atenção Especializada para Hepatite C – 1ª vez",
+        "active": null,
+        "description": "Procedimento de atendimento médico (infectologista) para cidadão que apresenta diagnóstico de Hepatite do tipo C.\n",
+        "popular_names": [
+            {
+                "name": "Consulta Médica de acompanhamento para Hepatite C"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac3e05e547bb34a51327464/consulta-medica-em-atencao-especializada-para-hepatite-c-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 17:13",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac3e255547bb34a51327466",
+        "name": "Consulta Médica em Atenção Especializada – HIV 1ª vez",
+        "active": null,
+        "description": "Procedimento de atendimento médico (infectologista) para cidadão que apresenta diagnóstico de HIV reagente (positivo).\n",
+        "popular_names": [
+            {
+                "name": "Consulta Médica de acompanhamento para HIV"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac3e255547bb34a51327466/consulta-medica-em-atencao-especializada-hiv-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 17:21",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac3e463547bb34a51327468",
+        "name": "Consulta Médica em Atenção Especializada para HTLV – 1ª vez",
+        "active": null,
+        "description": "Procedimento de atendimento médico (infectologista) para cidadão que apresenta diagnóstico de infecção por vírus HTLV.\n",
+        "popular_names": [
+            {
+                "name": "Consulta Médica de acompanhamento para vírus HTLV"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac3e463547bb34a51327468/consulta-medica-em-atencao-especializada-para-htlv-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 17:30",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac3ec9c547bb34a5132746a",
+        "name": "Consulta médica em Atenção Especializada para tuberculose como coinfecção do HIV-AIDS – 1ª vez",
+        "active": null,
+        "description": "Procedimento de atendimento médico (infectologista) para cidadão que apresenta diagnóstico de tuberculose como doença oportunista à infecção do HIV-AIDS.\n",
+        "popular_names": [
+            {
+                "name": "Consulta médica para acompanhamento da Tuberculose/HIV- AIDS"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac3ec9c547bb34a5132746a/consulta-medica-em-atencao-especializada-para-tuberculose-como-coinfeccao-do-hiv-aids-1-vez",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 18:05",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac3fb71547bb34a5132746c",
+        "name": "Controle e Dispensação de Equipamentos de Proteção Individual (EPI)",
+        "active": null,
+        "description": "Entrega e controle da distribuição de Equipamentos de Proteção Individual específicos, conforme PPRA,  para proporcionar proteção ao servidor do Hospital Escola Dr. Helvio Auto que, no exercício de suas atividades laborais, se expõe diretamente a riscos que não contemplados por medidas de proteção coletiva. \n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac3fb71547bb34a5132746c/controle-e-dispensacao-de-equipamentos-de-protecao-individual-epi",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 19:08",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac40132547bb34a5132746e",
+        "name": "Divulgação de ações e projetos desenvolvidos no Hospital Escola Dr. Helvio Auto",
+        "active": null,
+        "description": " As ações e eventos desenvolvidos no Hospital Escola Dr. Helvio Auto são divulgados nos canais internos e externos de comunicação por meio da Assessoria de Comunicação do HEHA e na Rede Humaniza - RHS.<br />\n<br />\n \n",
+        "popular_names": [
+            {
+                "name": "Divulgação institucional"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac40132547bb34a5132746e/divulgacao-de-acoes-e-projetos-desenvolvidos-no-hospital-escola-dr-helvio-auto",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 19:33",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac40799547bb34a51327470",
+        "name": "Emissão de certificado/declaração pela participação das atividades do Núcleo de Educação Permanente",
+        "active": null,
+        "description": "É uma certificação de participação no evento ou curso para contribuir com as horas necessárias para mudança de letra de acordo com Plano de Cargos dos Servidores.\n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac40799547bb34a51327470/emissao-de-certificado-declaracao-pela-participacao-das-atividades-do-nucleo-de-educacao-permanente",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 20:00",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac40aa8547bb34a51327472",
+        "name": "Emissão de declarações de vínculo institucional",
+        "active": null,
+        "description": "Serviço prestado ao servidor efetivo lotado no HEHA, a qualquer tempo. \n",
+        "popular_names": [
+            {
+                "name": "Pedido de declaração"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac40aa8547bb34a51327472/emissao-de-declaracoes-de-vinculo-institucional",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 20:13",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac40f0d547bb34a5e327447",
+        "name": "Encaminhamento do servidor para atendimento ambulatorial especializado",
+        "active": null,
+        "description": "Encaminhamento do servidor do HEHA que necessite de uma assistência ambulatorial específica para acompanhamento ambulatorial com especialistas por motivo preventivo, diagnóstico ou curativo. \n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac40f0d547bb34a5e327447/encaminhamento-do-servidor-para-atendimento-ambulatorial-especializado",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 20:32",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac41134547bb34a51327475",
+        "name": "Fornecimento de medicação para tuberculose pulmonar como coinfecção do HIV-AIDS",
+        "active": null,
+        "description": "Fornecimento de medicamentos para tratamento de tuberculose pulmonar como coinfecção do HIV/AIDS.\n",
+        "popular_names": [
+            {
+                "name": "Fornecimento  de medicação para tuberculose como coinfecção do HIV/AIDS."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac41134547bb34a51327475/fornecimento-de-medicacao-para-tuberculose-pulmonar-como-coinfeccao-do-hiv-aids",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 20:41",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4138f547bb34a51327477",
+        "name": "Exame ginecológico de colposcopia para pacientes acompanhadas no SAE – HEHA ou internadas no Hospital Escola Dr. Helvio Auto",
+        "active": null,
+        "description": "Exame ginecológico de colposcopia disponibilizado para pacientes acompanhadas no SAE do HEHA ou internadas no Hospital Escola Dr. Helvio Auto que necessitem do exame.\n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4138f547bb34a51327477/exame-ginecologico-de-colposcopia-para-pacientes-acompanhadas-no-sae-heha-ou-internadas-no-hospital-escola-dr-helvio-auto",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "03/04/2018 20:51",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4cbdc547bb34a51327481",
+        "name": "Exame Laboratorial – Proteina C Reativa (PCR)",
+        "active": null,
+        "description": "Exame utilizado para quantificar a concentração da proteína C reativa diante de quadros com suspeita de processo inflamatório, infeccioso, ajudando no diagnóstico e acompanhamento da eficácia do tratamento. É um exame realizado a partir da coleta de uma amostra de sangue pelo técnico de laboratório.  \n",
+        "popular_names": [
+            {
+                "name": "Exame de PCR"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4cbdc547bb34a51327481/exame-laboratorial-proteina-c-reativa-pcr",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 09:58",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4ccf3547bb34fb74cf236",
+        "name": "Exame Laboratorial – Poliovirus",
+        "active": null,
+        "description": "Exame laboratorial utilizado na avaliação de imunidade contra o vírus da Poliomielite, uma vez que o país tem certificado de eliminação da poliomielite em 1994.  É um exame realizado a partir de uma amostra de sangue coletada pelo laboratório.\n",
+        "popular_names": [
+            {
+                "name": "Exame de Poliomielite"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4ccf3547bb34fb74cf236/exame-laboratorial-poliovirus",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 10:02",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4ce02547bb34a51327485",
+        "name": "Exame Laboratorial de dosagem de Potássio",
+        "active": null,
+        "description": "Exame laboratorial para analisar as concentrações de Potássio auxiliando na avaliação do equilíbrio eletrolítico, visto que o Potássio desempenha papel fundamental na contração muscular. É um exame realizado a partir de uma amostra de sangue coletada em laboratório.\n",
+        "popular_names": [
+            {
+                "name": "Exame de Potássio"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4ce02547bb34a51327485/exame-laboratorial-de-dosagem-de-potassio",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 10:07",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4ce0c547bb34a51327486",
+        "name": "Exame Laboratorial – Sifilis (VDRL)",
+        "active": null,
+        "description": "Exame de triagem para Sífilis realizado na investigação quando há sintomas de infecção por Sífilis ou por outra Doença Sexualmente Transmissível (DST), bem como durante os exames pré-natais em gestantes.   É um exame realizado a partir da coleta de uma amostra de sangue pelo técnico de laboratório.  \n",
+        "popular_names": [
+            {
+                "name": "Exame de Sífilis"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4ce0c547bb34a51327486/exame-laboratorial-sifilis-vdrl",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 10:07",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4cf2d547bb34a51327489",
+        "name": "Exame Laboratorial – Proteína Total e Frações",
+        "active": null,
+        "description": "Conjunto de exames usado como rotina na avaliação nutricional, triagem de distúrbios renais e hepáticos e diversas outras doenças. Também utilizado na análise pré-operatória É um exame realizado a partir da coleta de uma amostra de sangue pelo técnico do laboratório.  \n",
+        "popular_names": [
+            {
+                "name": "Exame de Proteínas"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4cf2d547bb34a51327489/exame-laboratorial-proteina-total-e-fracoes",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 10:12",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4cf53547bb34a5132748a",
+        "name": "Exame Laboratorial de Ácido Úrico",
+        "active": null,
+        "description": "Exame laboratorial para detectar e monitorar os níveis de ácido úrico no sangue. É um exame realizado a partir de uma amostra de sangue coletada em laboratório.  \n",
+        "popular_names": [
+            {
+                "name": "Exame de Ácido Úrico"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4cf53547bb34a5132748a/exame-laboratorial-de-acido-urico",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 10:12",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4d00a547bb34a5132748e",
+        "name": "Exame Laboratorial – Rotavirus",
+        "active": null,
+        "description": "Exame laboratorial utilizado como marcador de infecções ou eficácia de proteção contra infecção e diarreia por rotavirus.  É um exame realizado a partir de uma amostra de sangue coletada pelo laboratório.\n",
+        "popular_names": [
+            {
+                "name": "Exame de Rotavirus"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4d00a547bb34a5132748e/exame-laboratorial-rotavirus",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 10:15",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4d0bb547bb34a51327490",
+        "name": "Exame Laboratorial de dosagem de Sódio",
+        "active": null,
+        "description": "Exame laboratorial para analisar as concentrações de Sódio auxiliando na avaliação do balanço eletrolítico e a função renal, visto que o Sódio desempenha papel fundamental na distribuição da água corporal. É um exame realizado a partir de uma amostra de sangue coletada em laboratório.  \n",
+        "popular_names": [
+            {
+                "name": "Exame de Sódio"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4d0bb547bb34a51327490/exame-laboratorial-de-dosagem-de-sodio",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 10:18",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4d0ed547bb34a51327492",
+        "name": "Exame Laboratorial de Amilase",
+        "active": null,
+        "description": "Exame laboratorial para diagnosticar e monitorar pancreatite e outras doenças pancreáticas. É um exame realizado a partir de uma amostra de sangue coletada em laboratório.  \n",
+        "popular_names": [
+            {
+                "name": "Exame de Amilase"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4d0ed547bb34a51327492/exame-laboratorial-de-amilase",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 10:19",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4d176547bb34a51327494",
+        "name": "Exame Laboratorial – Sumário de Urina ou Urianálise (EAS)",
+        "active": null,
+        "description": "Exame laboratorial utilizado para pesquisar distúrbios renais, metabólicos e infecções urinárias. Também é realizado na rotina de exames pré-natais ou no pré-operatório.. É um exame realizado a partir de uma amostra de urina coletada em recipiente próprio.  \n",
+        "popular_names": [
+            {
+                "name": "Exame de Urina"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4d176547bb34a51327494/exame-laboratorial-sumario-de-urina-ou-urianalise-eas",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 10:21",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4d26c547bb34a51327496",
+        "name": "Exame Laboratorial de TGO ou AST",
+        "active": null,
+        "description": "Exame laboratorial para detectar sinais de lesão hepática, compondo o Perfil Hepático. É um exame realizado a partir de uma amostra de sangue coletada em laboratório.  \n",
+        "popular_names": [
+            {
+                "name": "Exame de TGO ou AST"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4d26c547bb34a51327496/exame-laboratorial-de-tgo-ou-ast",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 10:26",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4d270547bb34a51327497",
+        "name": "Exame Laboratorial – Anticorpo Anti Chagas",
+        "active": null,
+        "description": "Exame laboratorial utilizado como critério para confirmação da suspeita clínica da doença de Chagas.  É um exame realizado a partir de uma amostra de sangue coletada pelo laboratório.\n",
+        "popular_names": [
+            {
+                "name": "Exame de Chagas"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4d270547bb34a51327497/exame-laboratorial-anticorpo-anti-chagas",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 10:26",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4d31d547bb34a5132749a",
+        "name": "Exame Laboratorial de TGP ou ALT",
+        "active": null,
+        "description": "Exame laboratorial para detectar sinais de lesão hepática, compondo o Perfil Hepático, sendo um excelente marcador hepatocelular. É um exame realizado a partir de uma amostra de sangue coletada em laboratório.  \n",
+        "popular_names": [
+            {
+                "name": "Exame de TGP ou ALT"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4d31d547bb34a5132749a/exame-laboratorial-de-tgp-ou-alt",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 10:29",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4d3df547bb34a5132749d",
+        "name": "Exame Laboratorial – Bacterioscopia",
+        "active": null,
+        "description": "Exame laboratorial de microscopia que objetiva pesquisar a presença de bactérias em amostras de secreções humanas. As amostras devem ser coletadas em kit próprio por profissional de saúde.  \n",
+        "popular_names": [
+            {
+                "name": "Pesquisa de bactéria"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4d3df547bb34a5132749d/exame-laboratorial-bacterioscopia",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 10:32",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4d3df547bb34a5132749e",
+        "name": "Exame Laboratorial – Toxoplasmose – Anti Toxo IGG",
+        "active": null,
+        "description": "Exame laboratorial utilizado no diagnóstico da toxoplasmose adquirida e congênita.  É um exame realizado a partir de uma amostra de sangue coletada pelo laboratório.\n",
+        "popular_names": [
+            {
+                "name": "Exame de Toxoplasmose"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4d3df547bb34a5132749e/exame-laboratorial-toxoplasmose-anti-toxo-igg",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 10:32",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4d47c547bb34a513274a1",
+        "name": "Exame Laboratorial – Toxoplasmose – Anti Toxo IGM",
+        "active": null,
+        "description": "Exame laboratorial utilizado no diagnóstico da toxoplasmose adquirida e congênita.  É um exame realizado a partir de uma amostra de sangue coletada pelo laboratório.\n",
+        "popular_names": [
+            {
+                "name": "Exame de Toxoplasmose"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4d47c547bb34a513274a1/exame-laboratorial-toxoplasmose-anti-toxo-igm",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 10:34",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4d537547bb34a513274a3",
+        "name": "Exame Laboratorial – Triglicerídeos",
+        "active": null,
+        "description": "Exame utilizado como parte do perfil lipídico de rotina para avaliar ou monitorar o tratamento de pessoas com fatores de risco de doença cardiovascular.   É um exame realizado a partir da coleta de uma amostra de sangue pelo técnico do laboratório.  \n",
+        "popular_names": [
+            {
+                "name": "Exame de Triglicerídeos"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4d537547bb34a513274a3/exame-laboratorial-triglicerideos",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 10:37",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4d547547bb34a513274a4",
+        "name": "Exame Laboratorial – Basciloscopia ou Pesquisa de BAAR",
+        "active": null,
+        "description": "Exame laboratorial para investigar a presença do Bacilo da Tuberculose em 3 amostras de secreção respiratória (escarro) colhidas em dias diferentes. As amostras deves ser coletadas em recipientes próprios. A análise também pode ser realizada em outros fluidos corporais como o Líquido Cefalorraqueano (LCR), por exemplo.\n",
+        "popular_names": [
+            {
+                "name": "Exame de Tuberculose"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4d547547bb34a513274a4/exame-laboratorial-basciloscopia-ou-pesquisa-de-baar",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 10:38",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4d5e1547bb34a513274a7",
+        "name": "Exame Laboratorial – Uréia Sérica",
+        "active": null,
+        "description": "Exame utilizado para avaliar a função renal e monitorar a eficácia de diálise e outros tratamentos de doenças renais.  É um exame realizado a partir da coleta de uma amostra de sangue pelo técnico do laboratório.  \n",
+        "popular_names": [
+            {
+                "name": "Exame de Uréia"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4d5e1547bb34a513274a7/exame-laboratorial-ureia-serica",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 10:40",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4d6b7547bb34a513274aa",
+        "name": "Exame Laboratorial – Citomegalovírus (IGG)",
+        "active": null,
+        "description": "Exame laboratorial utilizado na investigação da resposta imune para o Citomegalovírus.  É um exame realizado a partir de uma amostra de sangue coletada em laboratório.\n",
+        "popular_names": [
+            {
+                "name": "Exame Citomegalovírus"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4d6b7547bb34a513274aa/exame-laboratorial-citomegalovirus-igg",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 10:44",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4d6fa547bb34fb74cf239",
+        "name": "Exame Laboratorial – Bilirrubina total e frações",
+        "active": null,
+        "description": "Exame utilizado para triagem e monitoração de enfermidades hepáticas, anemias hemolíticas ou icterícia neonatal.   É um exame realizado a partir da coleta de uma amostra de sangue pelo técnico do laboratório.  \n",
+        "popular_names": [
+            {
+                "name": "Exame de Bilirrubina"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4d6fa547bb34fb74cf239/exame-laboratorial-bilirrubina-total-e-fracoes",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 10:45",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4d8ce547bb34a513274ad",
+        "name": "Exame Laboratorial – Citomegalovírus (IGM)",
+        "active": null,
+        "description": "Exame laboratorial utilizado na investigação da infecção para o Citomegalovírus.  É um exame realizado a partir de uma amostra de sangue coletada em laboratório.\n",
+        "popular_names": [
+            {
+                "name": "Exame Citomegalovírus"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4d8ce547bb34a513274ad/exame-laboratorial-citomegalovirus-igm",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 10:53",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4d8db547bb34a513274ae",
+        "name": "Exame Laboratorial de dosagem de Cálcio Sérico",
+        "active": null,
+        "description": "Exame laboratorial para analisar as concentrações de Cálcio no sangue como parte de um painel metabólico de rotina, visto que o mesmo desempenha papel importante na contração e relaxamento do coração, na coagulação sanguínea, na condução neuromuscular, na ossificação, no mecanismo de alguns hormônios e na ativação de algumas enzimas.  É um exame realizado a partir de uma amostra de sangue coletada em laboratório. \n",
+        "popular_names": [
+            {
+                "name": "Exame de Cálcio"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4d8db547bb34a513274ae/exame-laboratorial-de-dosagem-de-calcio-serico",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 10:53",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4d98e547bb34a513274b0",
+        "name": "Exame Laboratorial – Sarampo IGM",
+        "active": null,
+        "description": "Exame laboratorial para diagnosticar infecção por sarampo.  É um exame realizado a partir de uma amostra de sangue coletada em laboratório.\n",
+        "popular_names": [
+            {
+                "name": "Exame de Sarampo"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4d98e547bb34a513274b0/exame-laboratorial-sarampo-igm",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 10:56",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4da42547bb350264cf235",
+        "name": "Exame Laboratorial – Sífilis (FTA ABS)",
+        "active": null,
+        "description": " \n\nExame laboratorial utilizado na investigação da infecção por Sífilis.  É um exame realizado a partir de uma amostra de sangue coletada em laboratório.\n",
+        "popular_names": [
+            {
+                "name": "Exame Sífilis"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4da42547bb350264cf235/exame-laboratorial-sifilis-fta-abs",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 10:59",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4da62547bb34a513274b3",
+        "name": "Exame Laboratorial de Carga Viral do HIV (HIV quantitativo)",
+        "active": null,
+        "description": "Exame laboratorial para monitorar a evolução da doença por HIV em conjunto com outros exames laboratoriais, e para orientar o tratamento. É um exame realizado a partir de uma amostra de sangue coletada pelo laboratório. \n",
+        "popular_names": [
+            {
+                "name": "Carga Viral do HIV"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4da62547bb34a513274b3/exame-laboratorial-de-carga-viral-do-hiv-hiv-quantitativo",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 11:00",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4dae0547bb34a513274b5",
+        "name": "Exame Laboratorial – Sorologia Rubéola",
+        "active": null,
+        "description": "Exame laboratorial utilizado na investigação da infecção por Rubéola.  É um exame realizado a partir de uma amostra de sangue coletada em laboratório.\n",
+        "popular_names": [
+            {
+                "name": "Exame Rubéola"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4dae0547bb34a513274b5/exame-laboratorial-sorologia-rubeola",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 11:02",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4db9a547bb34a513274b7",
+        "name": "Exame Laboratorial de contagem de linfócitos CD4 e CD8 (HIV)",
+        "active": null,
+        "description": "Exame laboratorial utilizado para avaliar a função do sistema imunológico em pessoas com diagnóstico de infecção pelo HIV, em conjunto com outros exames laboratoriais. Ocasionalmente pode ser realizado por pessoas com outros diagnósticos que comprometem o sistema imunológico. É um exame realizado a partir de uma amostra de sangue coletada pelo laboratório. \n",
+        "popular_names": [
+            {
+                "name": "Contagem CD4 e CD8"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4db9a547bb34a513274b7/exame-laboratorial-de-contagem-de-linfocitos-cd4-e-cd8-hiv",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 11:05",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4dddf547bb34a513274b8",
+        "name": "Exame Radiológico da Mão (incidências PA e Oblíqua)",
+        "active": null,
+        "description": "Exame de imagem radiológica utilizado no diagnóstico de lesões que afetem a mão, sua articulação, anatomia e das estruturas ósseas próximas. É um exame rápido, fácil de ser realizado e de custo mais baixo que outros exames de imagem.\n",
+        "popular_names": [
+            {
+                "name": "Raio-X da mão ou Radiografia da mão"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4dddf547bb34a513274b8/exame-radiologico-da-mao-incidencias-pa-e-obliqua",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 11:14",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4de2a547bb34a513274ba",
+        "name": "Exame Laboratorial – Chagas (IF)",
+        "active": null,
+        "description": "Exame laboratorial utilizado no diagnóstico da doença de Chagas.  É um exame realizado a partir de uma amostra de sangue coletada pelo laboratório.\n",
+        "popular_names": [
+            {
+                "name": "Exame de Chagas"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4de2a547bb34a513274ba/exame-laboratorial-chagas-if",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 11:16",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4deca547bb34a513274bc",
+        "name": "Exame Radiológico do Calcâneo (incidências axial e perfil)",
+        "active": null,
+        "description": "Exame de imagem radiológica utilizado no diagnóstico de lesões que afetem o calcâneo, sua articulação, anatomia e das estruturas ósseas próximas. É um exame rápido, fácil de ser realizado e de custo mais baixo que outros exames de imagem.\n",
+        "popular_names": [
+            {
+                "name": "Raio-X de calcâneo ou Radiografia de calcâneo"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4deca547bb34a513274bc/exame-radiologico-do-calcaneo-incidencias-axial-e-perfil",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 11:18",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4df1a547bb34a513274be",
+        "name": "Exame Laboratorial - Coagulograma",
+        "active": null,
+        "description": "Conjunto de exames usado para avaliar se a coagulação do paciente está ou não dentro dos parâmetros normais e se o tempo de coagulação é ou não ideal. Utilizado para diagnosticar e monitorar condições correlacionadas a complicações hemorrágicas ou na análise pré-operatória. É um exame realizado a partir da coleta de uma amostra de sangue e de uma pequena picada no dedo ou orelha do paciente, realizadas pelo técnico do laboratório.  \n",
+        "popular_names": [
+            {
+                "name": "Coagulograma ou Prova de Coagulação"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4df1a547bb34a513274be/exame-laboratorial-coagulograma",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 11:20",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4dfc8547bb34a513274c0",
+        "name": "Exame Radiológico do Cotovelo (Incidências AP e Perfil)",
+        "active": null,
+        "description": "Exame de imagem radiológica utilizado no diagnóstico de lesões que afetem o cotovelo, sua articulação, anatomia e das estruturas ósseas próximas. É um exame rápido, fácil de ser realizado e de custo mais baixo que outros exames de imagem.\n",
+        "popular_names": [
+            {
+                "name": "Raio-X de Cotovelo ou Radiografia de cotovelo"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4dfc8547bb34a513274c0/exame-radiologico-do-cotovelo-incidencias-ap-e-perfil",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 11:23",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4e02c547bb350264cf236",
+        "name": "Exame Laboratorial – Colesterol",
+        "active": null,
+        "description": "Exame utilizado como parte do perfil lipídico de rotina para avaliar ou monitorar o tratamento de pessoas com fatores de risco de doença cardiovascular.   É um exame realizado a partir da coleta de uma amostra de sangue pelo técnico do laboratório.  \n",
+        "popular_names": [
+            {
+                "name": "Exame de Colesterol"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4e02c547bb350264cf236/exame-laboratorial-colesterol",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 11:24",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4e058547bb34a513274c2",
+        "name": "Exame Radiológico do Joelho (incidências AP e Perfil)",
+        "active": null,
+        "description": "Exame de imagem radiológica utilizado no diagnóstico de lesões que afetem o joelho, sua articulação, anatomia e das estruturas ósseas próximas. É um exame rápido, fácil de ser realizado e de custo mais baixo que outros exames de imagem.\n",
+        "popular_names": [
+            {
+                "name": "Raio-X de joelho ou Radiografia de joelho"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4e058547bb34a513274c2/exame-radiologico-do-joelho-incidencias-ap-e-perfil",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 11:25",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4e115547bb34a513274c3",
+        "name": "Exame Laboratorial de Contagem de Plaquetas",
+        "active": null,
+        "description": "Exame laboratorial para avaliar a contagem de plaquetas permitindo avaliar principalmente as alterações nos mecanismos de coagulação. É um exame realizado a partir de uma amostra de sangue coletada em laboratório. \n",
+        "popular_names": [
+            {
+                "name": "Exame de Plaquetas"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4e115547bb34a513274c3/exame-laboratorial-de-contagem-de-plaquetas",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 11:28",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4e455547bb34a513274c6",
+        "name": "Exame Radiológico do Ombro (incidências rotação externa e rotação interna)",
+        "active": null,
+        "description": "Exame de imagem radiológica utilizado no diagnóstico de lesões que afetem o ombro, sua articulação, anatomia e das estruturas ósseas próximas. É um exame rápido, fácil de ser realizado e de custo mais baixo que outros exames de imagem.\n",
+        "popular_names": [
+            {
+                "name": "Raio-X de ombro ou Radiografia de ombro"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4e455547bb34a513274c6/exame-radiologico-do-ombro-incidencias-rotacao-externa-e-rotacao-interna",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 11:42",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4e48a547bb34a513274c8",
+        "name": "Exame Laboratorial – Coprocultura",
+        "active": null,
+        "description": "Exame laboratorial que objetiva pesquisar e identificar micro-organismos nas fezes.  A coleta de amostras múltiplas em dias sucessivos aumenta a chance de identificação do patógeno.  As amostras de fezes devem ser coletas em recipiente próprio.  \n",
+        "popular_names": [
+            {
+                "name": "Cultura em fezes"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4e48a547bb34a513274c8/exame-laboratorial-coprocultura",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 11:43",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4e510547bb34a513274ca",
+        "name": "Exame Radiológico do Punho (incidências PA e Perfil)",
+        "active": null,
+        "description": " \n\nExame de imagem radiológica utilizado no diagnóstico de doenças e lesões que afetem o punho, seu conteúdo e as estruturas próximas. É um exame rápido, fácil de ser realizado e de custo mais baixo que outros exames de imagem.\n",
+        "popular_names": [
+            {
+                "name": "Raio-X de punho ou Radiografia de punho"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4e510547bb34a513274ca/exame-radiologico-do-punho-incidencias-pa-e-perfil",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 11:45",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4e5de547bb34a513274cc",
+        "name": "Exame Laboratorial de Creatinina",
+        "active": null,
+        "description": "Exame laboratorial para avaliar e monitorar a função renal no acompanhamento de doenças ou tratamentos que podem afetar a função renal. É um exame realizado a partir de uma amostra de sangue coletada em laboratório.  \n",
+        "popular_names": [
+            {
+                "name": "Exame de Creatinina"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4e5de547bb34a513274cc/exame-laboratorial-de-creatinina",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 11:49",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4e5e1547bb34a513274cd",
+        "name": "Exame Radiológico do Tórax (Incidência AP)",
+        "active": null,
+        "description": "Exame de imagem radiológica utilizado no diagnóstico de doenças e lesões que afetem o tórax, seu conteúdo e as estruturas próximas. É um exame rápido, fácil de ser realizado e de custo mais baixo que outros exames de imagem.\n",
+        "popular_names": [
+            {
+                "name": "Raio-X de tórax ou Radiografia de tórax"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4e5e1547bb34a513274cd/exame-radiologico-do-torax-incidencia-ap",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 11:49",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4e69d547bb34a513274d0",
+        "name": "Exame Radiológico do Tornozelo (incidências AP, Perfil e Oblíqua)",
+        "active": null,
+        "description": "Exame de imagem radiológica utilizado no diagnóstico de lesões que afetem o tornozelo, sua articulação, anatomia e das estruturas ósseas próximas. É um exame rápido, fácil de ser realizado e de custo mais baixo que outros exames de imagem.\n",
+        "popular_names": [
+            {
+                "name": "Raio-X de tornozelo ou Radiografia de tornozelo"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4e69d547bb34a513274d0/exame-radiologico-do-tornozelo-incidencias-ap-perfil-e-obliqua",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 11:52",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4e769547bb34a513274d2",
+        "name": "Exame Laboratorial – Cultura BK",
+        "active": null,
+        "description": "Exame laboratorial para avaliação da presença do Bacilo da Tuberculose em secreções e fluidos corporais. As amostras devem ser coletadas em recipientes próprios.\n",
+        "popular_names": [
+            {
+                "name": "Exame de cultura para Tuberculose"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4e769547bb34a513274d2/exame-laboratorial-cultura-bk",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 11:55",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4e869547bb34a513274d4",
+        "name": "Colonoscopia",
+        "active": null,
+        "description": "A colonoscopia é um exame que ajuda a avaliar o interior do cólon, utilizado para diagnosticar diversos problemas no intestino, como câncer, úlceras, diverticulite e outros.\n\nGeralmente, a colonoscopia deve ser feita a partir dos 50 anos, com intervalos de 3 ou 5 anos, no entanto, se houver histórico familiar de câncer de intestino ou colite ulcerativa, a colonoscopia pode ser feita por volta dos 30 anos.\n\nA colonoscopia não dói e é recomendada em casos de presença de sangue nas fezes, dor abdominal, diarreia intensa ou alterações bruscas no funcionamento intestinal.\n\nA <a href=\"http://www.digest.med.br/procedimentos/colonoscopia/\">Colonoscopia</a> é um exame endoscópico realizado através do ânus, permitindo a visualização de todo o intestino grosso, apenas não permitindo adequada visualização das lesões em canal anal e borda anal. Através deste procedimento podem ser identificados processos inflamatórios ou tumores intestinais, sendo possível biópsia e ressecção de pequenos tumores ou polipos.\n",
+        "popular_names": [
+            {
+                "name": "Colono"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4e869547bb34a513274d4/colonoscopia",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 11:59",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4e950547bb34a513274d5",
+        "name": "Exame Laboratorial – Cultura de Orofaringe",
+        "active": null,
+        "description": "Exame laboratorial de microscopia que auxilia na detecção de processos infecciosos da orofaringe.  As amostras devem ser coletas por profissional de saúde com swab e técnica específica.  \n",
+        "popular_names": [
+            {
+                "name": "Cultura de Garganta"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4e950547bb34a513274d5/exame-laboratorial-cultura-de-orofaringe",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 12:03",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4ea76547bb34a513274d7",
+        "name": "Exame Laboratorial – Cultura de secreção purulenta",
+        "active": null,
+        "description": "Exame laboratorial que auxilia na detecção de processos infecciosos em secreções corporais de órgãos ou lesões.   As amostras devem ser coletas por profissional de saúde com swab e técnica específica.  \n",
+        "popular_names": [
+            {
+                "name": "Cultura de secreção"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4ea76547bb34a513274d7/exame-laboratorial-cultura-de-secrecao-purulenta",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 12:08",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4ebb1547bb34a513274d9",
+        "name": "Exame Laboratorial – Cultura de secreção vaginal",
+        "active": null,
+        "description": "Exame laboratorial que auxilia na detecção de processos infecciosos vaginais, sendo um auxílio ao diagnóstico de vaginites e vaginoses.  As amostras devem ser coletas por profissional de saúde com swab e técnica específica.  \n",
+        "popular_names": [
+            {
+                "name": "Cultura de secreção vaginal"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4ebb1547bb34a513274d9/exame-laboratorial-cultura-de-secrecao-vaginal",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 12:13",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4ecaf547bb34a513274da",
+        "name": "Exame Laboratorial – Cultura para cólera",
+        "active": null,
+        "description": "Exame laboratorial utilizado para isolamento do vibrio cholerae em pacientes doentes ou portadores assintomáticos, sendo considerado o exame “padrão-ouro”.  É um exame realizado a partir de uma amostra de fezes do paciente.\n",
+        "popular_names": [
+            {
+                "name": "Exame de Cólera"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4ecaf547bb34a513274da/exame-laboratorial-cultura-para-colera",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 12:18",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4ee33547bb34a513274dc",
+        "name": "Exame Laboratorial – Pesquisa de Dengue",
+        "active": null,
+        "description": "Exame laboratorial utilizado na avaliação Dengue.  É um exame realizado a partir de uma amostra de sangue coletada pelo laboratório.\n",
+        "popular_names": [
+            {
+                "name": "Exame de Dengue"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4ee33547bb34a513274dc/exame-laboratorial-pesquisa-de-dengue",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 12:24",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4efbd547bb34a513274de",
+        "name": "Exame Laboratorial – Desidrogenase Lática ou Lactato Desidrogenase (LDH)",
+        "active": null,
+        "description": "Exame utilizado como marcador no diagnóstico de possíveis condições que estejam afetando ou causando destruição das células de lugares específicos do corpo. É um exame realizado a partir da coleta de uma amostra de sangue pelo técnico do laboratório.  \n",
+        "popular_names": [
+            {
+                "name": "Exame de LDH"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4efbd547bb34a513274de/exame-laboratorial-desidrogenase-latica-ou-lactato-desidrogenase-ldh",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 12:31",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4f008547bb34a513274df",
+        "name": "Endoscopia Digestiva Alta",
+        "active": null,
+        "description": "A endoscopia digestiva alta (EDA) é um exame que tem como objetivo diagnosticar e tratar algumas das doenças mais comuns do sistema digestivo superior. A endoscopia também pode ser chamada de esofagogastroduodenoscopia, pois é um exame endoscópico que permite a visualização direta do interior do esôfago, estômago e duodeno.\n\nA endoscopia digestiva é um procedimento habitualmente feito pelo médico gastroenterologista e pode ser usada tanto como meio diagnóstico quanto para tratamento de diversos problemas do sistema digestivo alto.\n",
+        "popular_names": [
+            {
+                "name": "Endoscopia - EDA"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4f008547bb34a513274df/endoscopia-digestiva-alta",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 12:32",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4fa72547bb34a513274e2",
+        "name": "Exames de teste rápido para HIV, Hepatites Virais e Sífilis no Centro de Testagem e Aconselhamento (CTA) do Serviço Ambulatorial Especializado - HEHA.",
+        "active": null,
+        "description": "Realização de teste rápido para HIV, Hepatites Virais e Sífilis e acompanhamento da equipe multidisciplinar do Serviço de Assistência Especializada (SAE) do Hospital Escola Dr. Helvio Auto.\n",
+        "popular_names": [
+            {
+                "name": "Teste rápido para HIV , Hepatites Virais e Sífilis."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4fa72547bb34a513274e2/exames-de-teste-rapido-para-hiv-hepatites-virais-e-sifilis-no-centro-de-testagem-e-aconselhamento-cta-do-servico-ambulatorial-especializado-heha",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 13:16",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4fcae547bb34a513274e4",
+        "name": "Exame Laboratorial – Fosfatase Alcalina Sérica",
+        "active": null,
+        "description": "Exame utilizado para investigar enfermidades hepáticas ou ósseas. Pode ser importante como complemento na investigação de outras condições de saúde.  É um exame realizado a partir da coleta de uma amostra de sangue pelo técnico do laboratório.  \n",
+        "popular_names": [
+            {
+                "name": "Exame de Fosfatase Alcalina"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4fcae547bb34a513274e4/exame-laboratorial-fosfatase-alcalina-serica",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 13:26",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4fd0f547bb34a513274e6",
+        "name": "Ultrassonografia também conhecida como Ecografia.",
+        "active": null,
+        "description": "É um método de diagnóstico por imagem que utiliza ondas sonoras para obtenção de cortes anatômicos (tomografia por ultrassons) em Medicina. É um <strong>exame não invasivo e não cumulativo</strong>. Não causa danos aos tecidos e tampouco aos embriões. <strong>Não tem efeito radioativo</strong> e, por não acumular a energia, pode ser indicado repetidamente, quando necessário.\n",
+        "popular_names": [
+            {
+                "name": "Ultrassom"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4fd0f547bb34a513274e6/ultrassonografia-tambem-conhecida-como-ecografia",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 13:27",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4feba547bb34a513274e8",
+        "name": "Fornecimento de antirretrovirais para o tratamento de HIV/AIDS para pacientes acompanhados pelo SAE - Hospital Escola Dr. Helvio Auto.",
+        "active": null,
+        "description": "Fornecimento de medicamentos antirretrovirais para pacientes com HIV/AIDS acompanhados pelo SAE – Hospital Escola Dr. Helvio Auto.\n\nPessoalmente após a consulta com o infectologista.\n\n \n",
+        "popular_names": [
+            {
+                "name": "Fornecimento  de medicação para o tratamento de HIV/AIDS para pacientes acompanhados pelo SAE - Hospital Escola Dr. Helvio Auto."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4feba547bb34a513274e8/fornecimento-de-antirretrovirais-para-o-tratamento-de-hiv-aids-para-pacientes-acompanhados-pelo-sae-hospital-escola-dr-helvio-auto",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 13:35",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac4ffbb547bb31e9d5cb75d",
+        "name": "Exame Laboratorial – GGT",
+        "active": null,
+        "description": "Exame utilizado no diagnóstico diferencial de enfermidade hepática em situações específicas. É um exame realizado a partir da coleta de uma amostra de sangue pelo técnico do laboratório.  \n",
+        "popular_names": [
+            {
+                "name": "Exame de GGT"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac4ffbb547bb31e9d5cb75d/exame-laboratorial-ggt",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 13:39",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac5002f547bb34a513274eb",
+        "name": "Fornecimento de fórmula láctea (de partida e seguimento) para lactentes expostos ao HIV.",
+        "active": null,
+        "description": "Fornecimento de fórmula láctea especial (de partida e seguimento) para bebês de 0 a 12 meses expostos ao HIV (mães soropositivas) sendo impedidos de amamentar sob risco de contaminação.\n",
+        "popular_names": [
+            {
+                "name": "Fornecimento de fórmula láctea para bebês (de 0 a 12 meses) expostos ao HIV."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac5002f547bb34a513274eb/fornecimento-de-formula-lactea-de-partida-e-seguimento-para-lactentes-expostos-ao-hiv",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 13:41",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac5011e547bb34a513274ec",
+        "name": "Exame Laboratorial – Glicemia ou Glicose em Jejum",
+        "active": null,
+        "description": "Exame utilizado para determinar se o nível de glicose no sangue está na faixa ideal. Por meio deste exame é possível pesquisar, diagnosticar e monitorar as taxas de açúcar no sangue de pessoas diabéticas ou com risco para esta doença.  É um exame realizado a partir da coleta de uma amostra de sangue pelo técnico do laboratório.  \n",
+        "popular_names": [
+            {
+                "name": "Glicose em Jejum"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac5011e547bb34a513274ec/exame-laboratorial-glicemia-ou-glicose-em-jejum",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 13:45",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac50298547bb34a513274ee",
+        "name": "Exame Laboratorial – Glicose pós-prandial",
+        "active": null,
+        "description": "Exame utilizado para monitorar as taxas de açúcar no sangue de pessoas diabéticas ou com risco para esta doença.   É um exame realizado a partir da coleta de uma amostra de sangue pelo técnico do laboratório.  \n",
+        "popular_names": [
+            {
+                "name": "Glicose pós-prandial"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac50298547bb34a513274ee/exame-laboratorial-glicose-pos-prandial",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 13:51",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac503a8547bb34a513274f0",
+        "name": "Fornecimento de medicação para tuberculose pulmonar como coinfecção do HIV-AIDS",
+        "active": null,
+        "description": "Fornecimento de medicamentos para tratamento de tuberculose pulmonar como coinfecção do HIV/AIDS.\n",
+        "popular_names": [
+            {
+                "name": "Fornecimento  de medicação para tuberculose como coinfecção do HIV/AIDS."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac503a8547bb34a513274f0/fornecimento-de-medicacao-para-tuberculose-pulmonar-como-coinfeccao-do-hiv-aids",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 13:56",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac504f3547bb34a513274f2",
+        "name": "Exame Laboratorial – Hemocultura",
+        "active": null,
+        "description": "Exame laboratorial que objetiva pesquisar e identificar micro-organismos no sangue.  As amostras de sangue devem ser coletadas em recipiente próprio por profissional de saúde, em intervalos determinados, em geral em veias diferentes. \n",
+        "popular_names": [
+            {
+                "name": "Cultura de sangue"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac504f3547bb34a513274f2/exame-laboratorial-hemocultura",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 14:01",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac5051b547bb34a513274f3",
+        "name": "Gerenciamento da realização de Aulas práticas da Universidade Federal de Alagoas (UFAL) e Universidade Estadual de Ciências da Saúde de Alagoas (UNCISAL).",
+        "active": null,
+        "description": "Inserção dos alunos em atividades práticas para vivenciar conteúdo ministrado em sala de aula de disciplinas especificas de cursos de graduação.\n",
+        "popular_names": [
+            {
+                "name": ""
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac5051b547bb34a513274f3/gerenciamento-da-realizacao-de-aulas-praticas-da-universidade-federal-de-alagoas-ufal-e-universidade-estadual-de-ciencias-da-saude-de-alagoas-uncisal",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 14:02",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac506b4547bb34a513274f5",
+        "name": "Incentivo/Viabilização de pesquisas científicas",
+        "active": null,
+        "description": "Autorização, incentivo e acompanhamento de pesquisas científicas com realização no Hospital Escola Dr. Hélvio Auto\n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac506b4547bb34a513274f5/incentivo-viabilizacao-de-pesquisas-cientificas",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 14:09",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac509ea547bb34a513274f8",
+        "name": "Gerenciamento da realização de Visita Técnica de Instituições de Ensino",
+        "active": null,
+        "description": "Inserção dos alunos em atividades práticas para vivenciar conteúdo ministrado em sala de aula de disciplinas especificas de cursos de graduação.\n\n<strong>Instruções pré-atendimento</strong>:\n\n- Entregar a documentação necessária com antecedência mínima de 15 dias antes da data de início do estágio.\n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac509ea547bb34a513274f8/gerenciamento-da-realizacao-de-visita-tecnica-de-instituicoes-de-ensino",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 14:22",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac50ae5547bb34a513274fa",
+        "name": "Exame Laboratorial - Hemograma",
+        "active": null,
+        "description": "Exame laboratorial para diagnosticar, triar e monitorar distúrbios por meio da contagem dos elementos do sangue (glóbulos vermelhos, brancos e plaquetas). É um exame realizado a partir de uma amostra de sangue coletada em laboratório.  \n",
+        "popular_names": [
+            {
+                "name": "Hemograma"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac50ae5547bb34a513274fa/exame-laboratorial-hemograma",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 14:27",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac50b2b547bb34a513274fb",
+        "name": "Gerenciamento dos Programas de estágios Universidade Federal de Alagoas (UFAL) e Universidade Estadual de Ciências da Saúde de Alagoas (UNCISAL).",
+        "active": null,
+        "description": "Inserção dos alunos em atividades práticas para cumprimento de carga horária referente ao estágio curricular.\n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac50b2b547bb34a513274fb/gerenciamento-dos-programas-de-estagios-universidade-federal-de-alagoas-ufal-e-universidade-estadual-de-ciencias-da-saude-de-alagoas-uncisal",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 14:28",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac50c10547bb31e9d5cb75f",
+        "name": "Acompanhamento dos Programas de Residências da Universidade Estadual de Ciências da Saúde de Alagoas (UNCISAL).",
+        "active": null,
+        "description": "Inserção dos Residentes em atividades práticas para cumprimento de carga horária referente a Residência Médica.\n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac50c10547bb31e9d5cb75f/acompanhamento-dos-programas-de-residencias-da-universidade-estadual-de-ciencias-da-saude-de-alagoas-uncisal",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 14:32",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac50c4c547bb31ee45cb75d",
+        "name": "Exame Laboratorial – Hepatite A (Anti HVA IGM)",
+        "active": null,
+        "description": "Exame laboratorial para diagnosticar infecção pelo vírus da hepatite A (HAV). É um exame realizado a partir de uma amostra de sangue coletada pelo laboratório. \n",
+        "popular_names": [
+            {
+                "name": "Exame de Hepatite A"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac50c4c547bb31ee45cb75d/exame-laboratorial-hepatite-a-anti-hva-igm",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 14:33",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac50cf4547bb31e9d5cb760",
+        "name": "Atendimento de Pacientes encaminhados por alguma unidade de saúde ao Hospital Escola Dr. Helvio Auto, com suspeita ou confirmação de Dengue Grave.",
+        "active": null,
+        "description": "Atendimento médico referente aos sintomas compatíveis com a patologia.\n",
+        "popular_names": [
+            {
+                "name": "Caso de Dengue Grave."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac50cf4547bb31e9d5cb760/atendimento-de-pacientes-encaminhados-por-alguma-unidade-de-saude-ao-hospital-escola-dr-helvio-auto-com-suspeita-ou-confirmacao-de-dengue-grave",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 14:35",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac50d37547bb34a51327501",
+        "name": "Exame Laboratorial – Hepatite B (Anti HBC-IGG)",
+        "active": null,
+        "description": "Exame laboratorial para diagnosticar uma infecção pelo vírus da hepatite B. É um exame realizado a partir de uma amostra de sangue coletada pelo laboratório. \n",
+        "popular_names": [
+            {
+                "name": "Exame de Hepatite B"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac50d37547bb34a51327501/exame-laboratorial-hepatite-b-anti-hbc-igg",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 14:36",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac50d69547bb34a51327502",
+        "name": "Atendimento de Pacientes encaminhados por alguma unidade de saúde ao Hospital Escola Dr. Helvio Auto, com Difteria.",
+        "active": null,
+        "description": "Atendimento médico referente aos sintomas compatíveis com a patologia.\n",
+        "popular_names": [
+            {
+                "name": "Difteria."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac50d69547bb34a51327502/atendimento-de-pacientes-encaminhados-por-alguma-unidade-de-saude-ao-hospital-escola-dr-helvio-auto-com-difteria",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 14:37",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac50de1547bb34a51327505",
+        "name": "Atendimento de Pacientes encaminhados por alguma unidade de saúde ao Hospital Escola Dr. Helvio Auto, com Zika vírus.",
+        "active": null,
+        "description": "Atendimento médico referente aos sintomas compatíveis com a patologia.\n",
+        "popular_names": [
+            {
+                "name": "Zika vírus"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac50de1547bb34a51327505/atendimento-de-pacientes-encaminhados-por-alguma-unidade-de-saude-ao-hospital-escola-dr-helvio-auto-com-zika-virus",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 14:39",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac50e4a547bb34a51327507",
+        "name": "Exame Laboratorial – Hepatite B (Anti HBC-IGM)",
+        "active": null,
+        "description": "Exame laboratorial para diagnosticar infecção pelo vírus da hepatite B (Anti HBC - IGM). É um exame realizado a partir de uma amostra de sangue coletada pelo laboratório. \n",
+        "popular_names": [
+            {
+                "name": "Exame de Hepatite B"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac50e4a547bb34a51327507/exame-laboratorial-hepatite-b-anti-hbc-igm",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 14:41",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac50e67547bb34a51327508",
+        "name": "Atendimento em casos de acidentes ocupacionais por material perfuro cortante e/ou exposição a material biológico (Profissionais de Saúde).",
+        "active": null,
+        "description": "Prevenção contra Hepatite B e HIV através de profilaxia.\n",
+        "popular_names": [
+            {
+                "name": "Acidente de trabalho com exposição a material perfuro cortante e/ou exposição a material biológico."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac50e67547bb34a51327508/atendimento-em-casos-de-acidentes-ocupacionais-por-material-perfuro-cortante-e-ou-exposicao-a-material-biologico-profissionais-de-saude",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 14:41",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac50ef2547bb34a5132750b",
+        "name": "Atendimento de Pacientes portadores de HIV com Complicações Clínicas",
+        "active": null,
+        "description": "Atendimento médico referente à queixa apresentada.\n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac50ef2547bb34a5132750b/atendimento-de-pacientes-portadores-de-hiv-com-complicacoes-clinicas",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 14:44",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac50f46547bb34a5132750d",
+        "name": "Exame Laboratorial – Hepatite B – Anti-HBE",
+        "active": null,
+        "description": "Exame laboratorial utilizado como marcador do prognóstico da infecção pelo vírus da Hepatite B. É um exame realizado a partir de uma amostra de sangue coletada pelo laboratório.\n",
+        "popular_names": [
+            {
+                "name": "Exame de Hepatite B"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac50f46547bb34a5132750d/exame-laboratorial-hepatite-b-anti-hbe",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 14:45",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac50f6a547bb34a5132750e",
+        "name": "Acidentes por Animais Peçonhentos",
+        "active": null,
+        "description": "Atendimento de analgesia e uso de soro antiescorpiônico em casos específicos.\n",
+        "popular_names": [
+            {
+                "name": "Picada de escorpião, cobra e aranha."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac50f6a547bb34a5132750e/acidentes-por-animais-peconhentos",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 14:46",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac5101d547bb34a51327511",
+        "name": "Atendimento de Pacientes encaminhados por alguma unidade de saúde ao Hospital Escola Dr. Helvio Auto, com suspeita ou confirmação de Calazar.",
+        "active": null,
+        "description": "Atendimento médico referente aos sintomas compatíveis com a patologia.\n",
+        "popular_names": [
+            {
+                "name": "Calazar"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac5101d547bb34a51327511/atendimento-de-pacientes-encaminhados-por-alguma-unidade-de-saude-ao-hospital-escola-dr-helvio-auto-com-suspeita-ou-confirmacao-de-calazar",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 14:49",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac510b6547bb34a51327513",
+        "name": "Atendimento de Pacientes encaminhados por alguma unidade de saúde ao Hospital Escola Dr. Helvio Auto, com Chikungunya.",
+        "active": null,
+        "description": "Atendimento médico referente aos sintomas compatíveis com a patologia.\n",
+        "popular_names": [
+            {
+                "name": "Chikungunya."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac510b6547bb34a51327513/atendimento-de-pacientes-encaminhados-por-alguma-unidade-de-saude-ao-hospital-escola-dr-helvio-auto-com-chikungunya",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 14:51",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac5112a547bb34a51327515",
+        "name": "Exame Laboratorial – Hepatite B – Anti HBS",
+        "active": null,
+        "description": "Exame laboratorial para monitorar resposta ao tratamento da Hepatite B ou desenvolvimento de imunidade após vacina. É um exame realizado a partir de uma amostra de sangue coletada pelo laboratório.\n",
+        "popular_names": [
+            {
+                "name": "Exame Hepatite B"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac5112a547bb34a51327515/exame-laboratorial-hepatite-b-anti-hbs",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 14:53",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac51130547bb34a51327516",
+        "name": "Atendimento de Pacientes encaminhados por alguma unidade de saúde ao Hospital Escola Dr. Helvio Auto, com suspeita ou confirmação de Cólera.",
+        "active": null,
+        "description": "Atendimento médico referente aos sintomas compatíveis com a patologia.\n",
+        "popular_names": [
+            {
+                "name": "Cólera"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac51130547bb34a51327516/atendimento-de-pacientes-encaminhados-por-alguma-unidade-de-saude-ao-hospital-escola-dr-helvio-auto-com-suspeita-ou-confirmacao-de-colera",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 14:53",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac511a9547bb34a51327518",
+        "name": "Atendimento de Pacientes encaminhados por alguma unidade de saúde ao Hospital Escola Dr. Helvio Auto, com suspeita ou confirmação de Coqueluche.",
+        "active": null,
+        "description": "Atendimento médico referente aos sintomas compatíveis com a patologia.\n",
+        "popular_names": [
+            {
+                "name": "Coqueluche."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac511a9547bb34a51327518/atendimento-de-pacientes-encaminhados-por-alguma-unidade-de-saude-ao-hospital-escola-dr-helvio-auto-com-suspeita-ou-confirmacao-de-coqueluche",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 14:55",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac51247547bb34a5132751a",
+        "name": "Atendimento pós Exposição Sexual Desprotegida.",
+        "active": null,
+        "description": "Atendimento médico e dispensação de medicação preventiva (Profilaxia Profilaxia Pós-Exposição).\n",
+        "popular_names": [
+            {
+                "name": "Contato íntimo sem camisinha"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac51247547bb34a5132751a/atendimento-pos-exposicao-sexual-desprotegida",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 14:58",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac512ff547bb34a5132751c",
+        "name": "Atendimento de Pacientes encaminhados por alguma unidade de saúde ao Hospital Escola Dr. Helvio Auto, com suspeita ou confirmação de Febre Tifoide.",
+        "active": null,
+        "description": "Atendimento médico referente aos sintomas compatíveis com a patologia.\n",
+        "popular_names": [
+            {
+                "name": "Febre Tifo"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac512ff547bb34a5132751c/atendimento-de-pacientes-encaminhados-por-alguma-unidade-de-saude-ao-hospital-escola-dr-helvio-auto-com-suspeita-ou-confirmacao-de-febre-tifoide",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 15:01",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac51396547bb34a5132751d",
+        "name": "Atendimento de Pacientes encaminhados por alguma unidade de saúde ao Hospital Escola Dr. Helvio Auto, com suspeita ou confirmação de Hepatites Virais.",
+        "active": null,
+        "description": "Atendimento médico referente aos sintomas compatíveis com a patologia.\n",
+        "popular_names": [
+            {
+                "name": "Hepatites Virais"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac51396547bb34a5132751d/atendimento-de-pacientes-encaminhados-por-alguma-unidade-de-saude-ao-hospital-escola-dr-helvio-auto-com-suspeita-ou-confirmacao-de-hepatites-virais",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 15:04",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac51427547bb34a5132751f",
+        "name": "Atendimento de Pacientes encaminhados por alguma unidade de saúde ao Hospital Escola Dr. Helvio Auto, com suspeita ou confirmação de Herpes Zóster.",
+        "active": null,
+        "description": "Atendimento médico referente aos sintomas compatíveis com a patologia.\n",
+        "popular_names": [
+            {
+                "name": "Cobreiro."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac51427547bb34a5132751f/atendimento-de-pacientes-encaminhados-por-alguma-unidade-de-saude-ao-hospital-escola-dr-helvio-auto-com-suspeita-ou-confirmacao-de-herpes-zoster",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 15:06",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac514ac547bb34a51327520",
+        "name": "Atendimento de Pacientes encaminhados por alguma unidade de saúde ao Hospital Escola Dr. Helvio Auto, com suspeita ou confirmação de Leptospirose.",
+        "active": null,
+        "description": "Atendimento médico referente aos sintomas compatíveis com a patologia.\n",
+        "popular_names": [
+            {
+                "name": "Leptospirose"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac514ac547bb34a51327520/atendimento-de-pacientes-encaminhados-por-alguma-unidade-de-saude-ao-hospital-escola-dr-helvio-auto-com-suspeita-ou-confirmacao-de-leptospirose",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 15:08",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac51554547bb34a51327522",
+        "name": "Atendimento de Pacientes encaminhados por alguma unidade de saúde ao Hospital Escola Dr. Helvio Auto, com suspeita ou confirmação de Malária.",
+        "active": null,
+        "description": "Atendimento médico referente aos sintomas compatíveis com a patologia.\n",
+        "popular_names": [
+            {
+                "name": "Malária."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac51554547bb34a51327522/atendimento-de-pacientes-encaminhados-por-alguma-unidade-de-saude-ao-hospital-escola-dr-helvio-auto-com-suspeita-ou-confirmacao-de-malaria",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 15:11",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac515ce547bb34a51327524",
+        "name": "Atendimento de Pacientes encaminhados por alguma unidade de saúde ao Hospital Escola Dr. Helvio Auto, com suspeita ou confirmação de Meningite.",
+        "active": null,
+        "description": "Atendimento médico referente aos sintomas compatíveis com a patologia.\n",
+        "popular_names": [
+            {
+                "name": "Meningite."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac515ce547bb34a51327524/atendimento-de-pacientes-encaminhados-por-alguma-unidade-de-saude-ao-hospital-escola-dr-helvio-auto-com-suspeita-ou-confirmacao-de-meningite",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 15:13",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac51668547bb34a51327526",
+        "name": "Atendimento de Pacientes encaminhados por alguma unidade de saúde ao Hospital Escola Dr. Helvio Auto, com suspeita ou confirmação de Raiva.",
+        "active": null,
+        "description": "Atendimento médico referente aos sintomas compatíveis com a patologia.\n",
+        "popular_names": [
+            {
+                "name": "Raiva."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac51668547bb34a51327526/atendimento-de-pacientes-encaminhados-por-alguma-unidade-de-saude-ao-hospital-escola-dr-helvio-auto-com-suspeita-ou-confirmacao-de-raiva",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "04/04/2018 15:16",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac5346c547bb34a51327534",
+        "name": "Exame Laboratorial – Hepatite B",
+        "active": null,
+        "description": "Exame laboratorial utilizado como marcador de infecção aguda pelo vírus da Hepatite B. É um exame realizado a partir de uma amostra de sangue coletada pelo laboratório. \n",
+        "popular_names": [
+            {
+                "name": "Exame diagnóstico de Hepatite B"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac5346c547bb34a51327534/exame-laboratorial-hepatite-b",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 17:24",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac536af547bb34a51327537",
+        "name": "Exame Laboratorial – Hepatite C – Anti HCV",
+        "active": null,
+        "description": "Exame laboratorial para diagnosticar infecção pelo vírus da Hepatite C. É um exame realizado a partir de uma amostra de sangue coletada pelo laboratório. \n",
+        "popular_names": [
+            {
+                "name": "Exame Hepatite C"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac536af547bb34a51327537/exame-laboratorial-hepatite-c-anti-hcv",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 17:33",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac537f5547bb34a51327539",
+        "name": "Exame Laboratorial – HIV 1 e 2",
+        "active": null,
+        "description": "Exame laboratorial confirmatório para definição do diagnóstico de HIV que permite detectar os anticorpos anti-HIV 1 e 2. É um exame realizado a partir de uma amostra de sangue coletada pelo laboratório. \n",
+        "popular_names": [
+            {
+                "name": "Teste do HIV 1 e 2 (Confirmatório)"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac537f5547bb34a51327539/exame-laboratorial-hiv-1-e-2",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 17:39",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac538f8547bb34a5132753c",
+        "name": "Exame Laboratorial – HIV (Imunofluorescência indireta)",
+        "active": null,
+        "description": "Exame laboratorial confirmatório que permite detectar os anticorpos anti-HIV. É um exame realizado a partir de uma amostra de sangue coletada pelo laboratório.\n",
+        "popular_names": [
+            {
+                "name": "Teste do HIV (Confirmatório)"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac538f8547bb34a5132753c/exame-laboratorial-hiv-imunofluorescencia-indireta",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "04/04/2018 17:43",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac60d17547bb34a5132753e",
+        "name": "Atendimento de Pacientes encaminhados por alguma unidade de saúde ao Hospital Escola Dr. Helvio Auto, com suspeita ou confirmação de Sarampo.",
+        "active": null,
+        "description": "Atendimento médico referente aos sintomas compatíveis com a patologia.\n",
+        "popular_names": [
+            {
+                "name": "Sarampo."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac60d17547bb34a5132753e/atendimento-de-pacientes-encaminhados-por-alguma-unidade-de-saude-ao-hospital-escola-dr-helvio-auto-com-suspeita-ou-confirmacao-de-sarampo",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "05/04/2018 08:48",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac60d9c547bb34a51327540",
+        "name": "Atendimento de Pacientes encaminhados por alguma unidade de saúde ao Hospital Escola Dr. Helvio Auto, com suspeita ou confirmação de Tétano.",
+        "active": null,
+        "description": "Atendimento médico referente aos sintomas compatíveis com a patologia.\n",
+        "popular_names": [
+            {
+                "name": "Tétano"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac60d9c547bb34a51327540/atendimento-de-pacientes-encaminhados-por-alguma-unidade-de-saude-ao-hospital-escola-dr-helvio-auto-com-suspeita-ou-confirmacao-de-tetano",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "05/04/2018 08:50",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac60e55547bb3062ae08f9b",
+        "name": "Atendimento de Pacientes encaminhados por alguma unidade de saúde ao Hospital Escola Dr. Helvio Auto, com Tuberculose COM CRITÉRIOS DE INTERNAÇÃO/AIDS.",
+        "active": null,
+        "description": "Atendimento médico referente aos sintomas compatíveis com a patologia.\n",
+        "popular_names": [
+            {
+                "name": "Tuberculose com agravo para internação/AIDS"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac60e55547bb3062ae08f9b/atendimento-de-pacientes-encaminhados-por-alguma-unidade-de-saude-ao-hospital-escola-dr-helvio-auto-com-tuberculose-com-criterios-de-internacao-aids",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "05/04/2018 08:53",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac60ec8547bb34a51327543",
+        "name": "Atendimento de Pacientes encaminhados por alguma unidade de saúde ao Hospital Escola Dr. Helvio Auto, com suspeita ou confirmação de Varicela.",
+        "active": null,
+        "description": "Atendimento médico referente aos sintomas compatíveis com a patologia.\n",
+        "popular_names": [
+            {
+                "name": "Catapora"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac60ec8547bb34a51327543/atendimento-de-pacientes-encaminhados-por-alguma-unidade-de-saude-ao-hospital-escola-dr-helvio-auto-com-suspeita-ou-confirmacao-de-varicela",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "05/04/2018 08:55",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac60f0d547bb34a51327545",
+        "name": "Remanejamento interno de servidores.",
+        "active": null,
+        "description": "Procedimento realizado para remanejar servidor do Hospital Escola Dr. Helvio Auto de um setor para outro dentro do Hospital Escola Dr. Helvio Auto.\n",
+        "popular_names": [
+            {
+                "name": "Remanejamento"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac60f0d547bb34a51327545/remanejamento-interno-de-servidores",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "05/04/2018 08:57",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac60f7c547bb34a51327547",
+        "name": "Atendimento de Pacientes Vítimas de Violência Sexual (Feminina) encaminhadas ao Hospital Escola Dr. Helvio Auto, pela Maternidade Escola Santa Mônica.",
+        "active": null,
+        "description": "Atendimento médico e dispensação de medicação.\n",
+        "popular_names": [
+            {
+                "name": "Violência sexual Feminina."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac60f7c547bb34a51327547/atendimento-de-pacientes-vitimas-de-violencia-sexual-feminina-encaminhadas-ao-hospital-escola-dr-helvio-auto-pela-maternidade-escola-santa-monica",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "05/04/2018 08:58",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac60ff0547bb34a51327549",
+        "name": "Atendimento de Pacientes Vítimas de Violência Sexual (Masculino) encaminhados ao  Hospital Escola Dr. Helvio Auto,por alguma unidade de saúde, delegacia ou IML.",
+        "active": null,
+        "description": "Atendimento médico e dispensação de medicação.\n",
+        "popular_names": [
+            {
+                "name": "Violência sexual Masculina"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac60ff0547bb34a51327549/atendimento-de-pacientes-vitimas-de-violencia-sexual-masculino-encaminhados-ao-hospital-escola-dr-helvio-auto-por-alguma-unidade-de-saude-delegacia-ou-iml",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "05/04/2018 09:00",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac611ee547bb34a5132754b",
+        "name": "Serviço Social / Alta Hospitalar",
+        "active": null,
+        "description": "O profissional do Serviço Social informa a alta hospitalar à  família, ao município ou a rede de Atendimento,  para que ocorra a saída do usuário do hospital, e presta orientações  acerca da continuidade do tratamento, acesso ao transporte, bem como demais Serviços. \n",
+        "popular_names": [
+            {
+                "name": "Alta Hospitalar"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac611ee547bb34a5132754b/servico-social-alta-hospitalar",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "05/04/2018 09:09",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac61246547bb34a5132754d",
+        "name": "Investigação Hospitalar – Garbage Code",
+        "active": null,
+        "description": "Consiste na investigação da causa base da morte nas Declarações de Óbito (DO), para posterior alteração e envio para a Secretaria do Estado da Saúde (SESAU), a fim de qualificar as informações sobre as causas específicas de morte.\n",
+        "popular_names": [
+            {
+                "name": "Qualificação das informações sobre morte dos pacientes"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac61246547bb34a5132754d/investigacao-hospitalar-garbage-code",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "05/04/2018 09:10",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac6144c547bb34a5132754f",
+        "name": "Internamento -  entrevista social",
+        "active": null,
+        "description": "É um instrumento utilizado pelo profissional de Serviço Social no ato do internamento com os usuários advindos do Pronto Atendimento,  para melhor apreensão da realidade social do usuário, geralmente é realizado com o familiar e/ou responsável pelo internamento, ou com o  próprio usuário.\n",
+        "popular_names": [
+            {
+                "name": "Internamento"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac6144c547bb34a5132754f/internamento-entrevista-social",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "05/04/2018 09:19",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac6154c547bb34a51327551",
+        "name": "Liberação para cursos e eventos.",
+        "active": null,
+        "description": "Procedimento para servidor solicitar liberação abonada para participar de cursos de curta duração/eventos dentro ou fora do estado.\n",
+        "popular_names": [
+            {
+                "name": "Liberação para eventos."
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac6154c547bb34a51327551/liberacao-para-cursos-e-eventos",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "05/04/2018 09:23",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac615d5547bb34a51327553",
+        "name": "Visitas técnicas em serviços de educação permanente/continuada de outras instituições de Saúde",
+        "active": null,
+        "description": "São visitas que visam promover a troca de experiência entre os serviços. \n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac615d5547bb34a51327553/visitas-tecnicas-em-servicos-de-educacao-permanente-continuada-de-outras-instituicoes-de-saude",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "05/04/2018 09:25",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac61708547bb34a51327555",
+        "name": "Marcação de reuniões com a Gerência Geral.",
+        "active": null,
+        "description": "Momento para discutir assuntos referentes ao contexto institucional .\n",
+        "popular_names": [
+            {}
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac61708547bb34a51327555/marcacao-de-reunioes-com-a-gerencia-geral",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "05/04/2018 09:31",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac617ef547bb34a51327557",
+        "name": "Minuto Relax",
+        "active": null,
+        "description": "Projeto existente desde julho de 2016 que visa proporcionar ao servidor um ambiente agradável no qual ele possa recorrer para relaxar por alguns minutos durante seu horário de trabalho.  Objetiva Aliviar o estresse da rotina profissional, as tensões do dia a dia, promover o bem-estar geral e reestabelecer o fluxo energético de forma a relaxar e renovar a disposição do servidor para a continuidade de suas atividades profissionais.\n",
+        "popular_names": [
+            {
+                "name": "Massagem"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac617ef547bb34a51327557/minuto-relax",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "05/04/2018 09:34",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac61854547bb34a51327558",
+        "name": "Atividades Educativas do Serviço Social",
+        "active": null,
+        "description": "São atividades  em grupo desenvolvidas nas unidades e recepção do Hospital Escola Dr. Helvio Auto, para contribuir com a socialização de informações referentes  a diversas temáticas, tais como: benefícios sociais, previdenciários e legislações referentes aos seguimentos  idoso, criança e adolescente, pessoa com deficiência, entre outros. Salientamos ainda que são desenvolvidas outras  atividades, de acordo com as demandas surgidas.\n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac61854547bb34a51327558/atividades-educativas-do-servico-social",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "05/04/2018 09:36",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac61f5f547bb34a5132755b",
+        "name": "Autorização de visitas aos pacientes oriundos de outros municípios",
+        "active": null,
+        "description": "O profissional do Serviço Social contribui para o acesso à visita aos usuários que residem em outros Municípios fora do horário estabelecido pelo Hospital Escola Dr. Helvio Auto, em virtude da dificuldade de transporte.\n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac61f5f547bb34a5132755b/autorizacao-de-visitas-aos-pacientes-oriundos-de-outros-municipios",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "05/04/2018 10:06",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac62021547bb34a5132755c",
+        "name": "Notificação das doenças e agravos de notificação compulsória detectados no âmbito hospitalar.",
+        "active": null,
+        "description": "Consiste na comunicação da ocorrência de casos individuais, agregados de casos ou surtos, confirmados ou suspeitos, da lista de agravos relacionados na Portaria n° 204, de 17 de Fevereiro de 2016, que deve ser feita às autoridades sanitárias.\n",
+        "popular_names": [
+            {
+                "name": "Notificação das doenças e agravos de notificação compulsória"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac62021547bb34a5132755c/notificacao-das-doencas-e-agravos-de-notificacao-compulsoria-detectados-no-ambito-hospitalar",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "05/04/2018 10:09",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac621bf547bb34a5132755e",
+        "name": "Núcleo de Educação Permanente e Desenvolvimento/Oferta de Treinamentos, Cursos, Palestras, Roda de Conversa e outras atividades afins.",
+        "active": null,
+        "description": "São atividades desenvolvidas de acordo com as necessidades dos serviços e dos servidores e estão divididas em três eixos: Assistencial; Direitos e Deveres, Liderança e Interação com a equipe. Serve para desenvolver a equipe e o serviço.\n",
+        "popular_names": [
+            {}
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac621bf547bb34a5132755e/nucleo-de-educacao-permanente-e-desenvolvimento-oferta-de-treinamentos-cursos-palestras-roda-de-conversa-e-outras-atividades-afins",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "05/04/2018 10:16",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac62262547bb306bbe08f9b",
+        "name": "Atendimento à demanda externa do Serviço Social do Hospital Escola Dr. Helvio Auto",
+        "active": null,
+        "description": "O profissional do Serviço Social realiza atendimento social a todos os usuários que procuram o Serviço na sede do Hospital Escola Dr. Helvio Auto,  para prestar orientações referentes aos benefícios sociais, acesso aos serviços de saúde, assistência social e previdência, acesso à documentação e ao serviço de  justiça. \n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac62262547bb306bbe08f9b/atendimento-a-demanda-externa-do-servico-social-do-hospital-escola-dr-helvio-auto",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "05/04/2018 10:19",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac622d5547bb34a51327560",
+        "name": "OUVIDORIA",
+        "active": null,
+        "description": "É um canal de comunicação que representa  o usuário/ cidadão  junto à instituição com atendimento ao público interno e externo.\n",
+        "popular_names": [
+            {
+                "name": "OUVIDORIA"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac622d5547bb34a51327560/ouvidoria",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "05/04/2018 10:21",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac625b0547bb34a51327563",
+        "name": "Permuta de servidores entre unidades da Universidade Estadual de Ciências da Saúde de Alagoas.",
+        "active": null,
+        "description": "Movimentação entre dois servidores efetivos lotados em unidades distintas da Universidade Estadual de Ciências da Saúde de Alagoas - UNCISAL.\n",
+        "popular_names": [
+            {
+                "name": "Permuta de servidores"
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac625b0547bb34a51327563/permuta-de-servidores-entre-unidades-da-universidade-estadual-de-ciencias-da-saude-de-alagoas",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "05/04/2018 10:33",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac6266c547bb34a51327564",
+        "name": "Notificação do Serviço Social aos conselhos de direitos",
+        "active": null,
+        "description": "O profissional do Serviço Social realiza notificações no caso de violação de direitos dos usuários encaminhados ao Hospital Escola Dr. Helvio Auto.\n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac6266c547bb34a51327564/notificacao-do-servico-social-aos-conselhos-de-direitos",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "05/04/2018 10:36",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac628e7547bb34a51327566",
+        "name": "Assistência social em casos de óbito",
+        "active": null,
+        "description": "O profissional do Serviço Social realiza contato com da família do usuário após a informação do óbito para o repasse de informes referente ao auxílio funeral nos casos em que haja necessidade, encaminhando a família ao Serviço da Secretaria Municipal de Assistência Social. Ressaltamos que, nos demais casos o Serviço Social presta orientações de ordem social no que se refere ao Cartório, ao funeral e benefícios previdenciários. Nos casos necessários realiza encaminhamento ao Serviço de verificação de Óbito (SVO) ou Instituto Médico Legal (IML).\n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac628e7547bb34a51327566/assistencia-social-em-casos-de-obito",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "05/04/2018 10:47",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac62955547bb306bbe08f9c",
+        "name": "Projeto Respirar",
+        "active": null,
+        "description": "Projeto existente desde março de 2017 que visa ensinar, difundir e incentivar a prática da respiração profunda e correta para a obtenção do bem-estar, relaxamento e consequente melhor qualidade de vida.\n\nObjetiva Aliviar o estresse da rotina profissional, as tensões do dia a dia, promover o bem-estar geral de forma a relaxar e renovar a disposição do servidor para a continuidade de suas atividades profissionais diárias.\n",
+        "popular_names": [
+            {}
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac62955547bb306bbe08f9c/projeto-respirar",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "05/04/2018 10:49",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac62a84547bb34a51327568",
+        "name": "Transferência de usuários internos no Hospital Escola Dr. Helvio Auto  para outras unidades de Saúde",
+        "active": null,
+        "description": "A transferência do usuário a outra unidade hospitalar ocorre quando o Hospital Escola Dr. Helvio Auto não dispõe do serviço necessário ao tratamento, dessa forma, o profissional do Serviço Social presta orientações à família sobre onde encontrar os serviços, nos casos em que a família não consegue o acesso aos Serviços Públicos de Saúde, realizamos o encaminhamento ao Serviço da Defensoria Pública e Ministério Público.\n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac62a84547bb34a51327568/transferencia-de-usuarios-internos-no-hospital-escola-dr-helvio-auto-para-outras-unidades-de-saude",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "05/04/2018 10:54",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac62aba547bb3062ae08f9f",
+        "name": "Recebimento de declarações de nascimento, casamento e óbito de parentes de servidores.",
+        "active": null,
+        "description": "Receber os referidos documentos para justificar os pontos dos servidores e seguir com arquivamento.\n",
+        "popular_names": [
+            {
+                "name": ""
+            }
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac62aba547bb3062ae08f9f/recebimento-de-declaracoes-de-nascimento-casamento-e-obito-de-parentes-de-servidores",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "05/04/2018 10:55",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac62d76547bb34a5132756b",
+        "name": "Serviço de Terapia Intensiva em Doenças Infectocontagiosas",
+        "active": null,
+        "description": "Internação em Unidade de Terapia Intensiva (UTI) para pacientes com doenças infectocontagiosas.\n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac62d76547bb34a5132756b/servico-de-terapia-intensiva-em-doencas-infectocontagiosas",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "05/04/2018 11:06",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac62eae547bb34a5132756d",
+        "name": "Divulgação do perfil de morbimortalidade da unidade hospitalar",
+        "active": null,
+        "description": "Refere-se à divulgação dos relatórios semestral e anual do perfil de morbimortalidade da unidade hospitalar, com ênfase aos agravos/doenças de notificação compulsória.\n",
+        "popular_names": [
+            {}
+        ],
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac62eae547bb34a5132756d/divulgacao-do-perfil-de-morbimortalidade-da-unidade-hospitalar",
+        "latest_updater": "Denilza de Souza Florentino",
+        "date": "05/04/2018 11:11",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5ac630a1547bb34a5132756f",
+        "name": "Promoção de treinamento em agravos/doenças de notificação compulsória",
+        "active": null,
+        "description": "Consiste em promover treinamento para os profissionais da unidade hospitalar, com ênfase nos agravos/doenças de notificação compulsória, a fim de estimular a realização da notificação dos casos suspeitos ou confirmados. \n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5ac630a1547bb34a5132756f/promocao-de-treinamento-em-agravos-doencas-de-notificacao-compulsoria",
+        "latest_updater": "Ana Paula Tenório de Lima",
+        "date": "05/04/2018 11:20",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5acba5c6547bb32ec8c740f2",
+        "name": "VERIFICAÇÃO DE ÓBITOS",
+        "active": null,
+        "description": "Elucidação das causas morte não definidas de cunho clínico ou natural.\n\n \n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5acba5c6547bb32ec8c740f2/verificacao-de-obitos",
+        "latest_updater": "Davi Eduardo Melquides Pereira",
+        "date": "09/04/2018 14:41",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5acba78d547bb32ec8c740f3",
+        "name": "Emissão de laudos de necropsia",
+        "active": null,
+        "description": "Após a necropsia, o médico patologista elabora um laudo baseado no observado durante o procedimento.\n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5acba78d547bb32ec8c740f3/emissao-de-laudos-de-necropsia",
+        "latest_updater": "Davi Eduardo Melquides Pereira",
+        "date": "09/04/2018 14:49",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5acbaad9547bb3343b4b35f7",
+        "name": "Fornecimento de dados estáticos dos óbitos",
+        "active": null,
+        "description": "Fornecer dados estatísticos, disponibilizados no site do SVO (https://svo.uncisal.edu.br/) calculados a partir dos óbitos recebidos neste Serviço.\n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5acbaad9547bb3343b4b35f7/fornecimento-de-dados-estaticos-dos-obitos",
+        "latest_updater": "Davi Eduardo Melquides Pereira",
+        "date": "09/04/2018 15:03",
+        "organ": "5975fae08c36c76601b0494f"
+    },
+    {
+        "id": "5acbab81547bb32ec8c740fc",
+        "name": "Resultado de biópsia dos óbitos do SVO",
+        "active": null,
+        "description": "Durante a necropsia, caso julgue necessário, o médico patologista coleta amostras de tecido do cadáver para melhor elucidação da causa morte. Essas amostras são encaminhadas para laboratórios, nos quais as peças serão analisadas. Após os resultados, os exames são disponilizados ao SVO, podendo serem entregues a familiares.\n",
+        "popular_names": null,
+        "maturity_level": "Informacional",
+        "url": "http://www.servicos.al.gov.br/servico/5acbab81547bb32ec8c740fc/resultado-de-biopsia-dos-obitos-do-svo",
+        "latest_updater": "Davi Eduardo Melquides Pereira",
+        "date": "09/04/2018 15:05",
+        "organ": "5975fae08c36c76601b0494f"
+    }
+]

@@ -1,0 +1,326 @@
+[
+    {
+        "id": "592dea058c36c75b355a9043",
+        "name": "Consulta de Situação",
+        "active": true,
+        "description": "Este serviço é uma consulta a página http://www.ipasealsaude.al.gov.br/consulta-de-situação para verificar a situação financeira do usuário no plano de saúde. Caso o usuário esteja em débitos com as mensalidades, ele será bloqueado no sistema. Como também seus dependentes em caso de maior idade, morte ou desligamento.  ",
+        "popular_names": [
+            {
+                "name": "Consulta de situação financeira"
+            },
+            {
+                "name": "Consulta de bloqueio de usuário"
+            },
+            {
+                "name": "Consulta de situação do usuário"
+            }
+        ],
+        "maturity_level": null,
+        "url": "http://www.servicos.al.gov.br/servico/592dea058c36c75b355a9043/consulta-de-situacao",
+        "latest_updater": null,
+        "date": null,
+        "organ": "590880628c36c708368e836e"
+    },
+    {
+        "id": "592defd68c36c76fd9127b91",
+        "name": "Guia médico",
+        "active": true,
+        "description": "Este serviço é referente as informações dos serviços prestados pela rede credenciada do plano de saúde ao usuário. É organizada por cada especialidade. Possui ainda endereços e o número de telefones.",
+        "popular_names": [
+            {
+                "name": "Rede credenciada"
+            },
+            {
+                "name": "Consulta de médicos"
+            },
+            {
+                "name": "Especialidades do plano de saúde"
+            },
+            {}
+        ],
+        "maturity_level": null,
+        "url": "http://www.servicos.al.gov.br/servico/592defd68c36c76fd9127b91/guia-medico",
+        "latest_updater": null,
+        "date": null,
+        "organ": "590880628c36c708368e836e"
+    },
+    {
+        "id": "592df21a8c36c7711aa9b5cf",
+        "name": "Solicitação de Internamento",
+        "active": true,
+        "description": "No caso do usuário necessitar de internamento, a família deve se dirigir ao Setor de Autorização de Exames com os documentos exigidos para a solicitação da "Guia de Internamento". O Setor está localizado no 1º andar do Centro Clínico do Ipaseal Saúde, no Centro de Maceió. Se o usuário necessitar permanecer por mais tempo, os familiares deverão baixar no site do Ipaseal Saúde, a "Guia de Prorrogação de Internamento" no endereço: http://www.ipasealsaude.al.gov.br/arquivos/GUIA DE SOLICITACaO DE PRORROGACaO.pdf Será preciso pedir a prorrogação junto com a solicitação do médico responsável.",
+        "popular_names": [
+            {
+                "name": "Internação"
+            },
+            {
+                "name": "Prorrogação de internamento"
+            }
+        ],
+        "maturity_level": null,
+        "url": "http://www.servicos.al.gov.br/servico/592df21a8c36c7711aa9b5cf/solicitacao-de-internamento",
+        "latest_updater": null,
+        "date": null,
+        "organ": "590880628c36c708368e836e"
+    },
+    {
+        "id": "592df3158c36c7711aa9b5d1",
+        "name": "Extrato de coparticipação",
+        "active": true,
+        "description": "Este serviço é referente a emissão de um relatório dos procedimentos de consultas e exames executados pelo usuário do plano de saúde em um determinado período. ",
+        "popular_names": [
+            {
+                "name": "Relatório de coparticipação"
+            }
+        ],
+        "maturity_level": null,
+        "url": "http://www.servicos.al.gov.br/servico/592df3158c36c7711aa9b5d1/extrato-de-coparticipacao",
+        "latest_updater": null,
+        "date": null,
+        "organ": "590880628c36c708368e836e"
+    },
+    {
+        "id": "592df6b38c36c7711aa9b5d3",
+        "name": "Ouvidoria",
+        "active": true,
+        "description": "Este serviço é disponibilizado aos usuários do plano Ipaseal Saúde e credenciados para reclamações, reivindicações, denúncias, sugestões e elogios referentes aos serviços do plano de saúde. ",
+        "popular_names": [
+            {
+                "name": "Setor de reclamações"
+            }
+        ],
+        "maturity_level": null,
+        "url": "http://www.servicos.al.gov.br/servico/592df6b38c36c7711aa9b5d3/ouvidoria",
+        "latest_updater": null,
+        "date": null,
+        "organ": "590880628c36c708368e836e"
+    },
+    {
+        "id": "592ec6cd8c36c7699b842d27",
+        "name": "Solicitação de Credenciamento",
+        "active": true,
+        "description": "Este serviço é referente aos procedimentos para credenciamento do prestador de serviço médico/odontológico no plano de Ipaseal Saúde. A solicitação poderá ser feita no Setor de Protocolo do Ipaseal Saúde, localizado no térreo do prédio-sede por pessoas jurídica ou física com os devidos documentos exigidos. ",
+        "popular_names": [
+            {
+                "name": "Credenciamento de médico"
+            },
+            {
+                "name": "Credenciamento de clínicas"
+            },
+            {
+                "name": "Credenciamento de prestadores médicos /odontológicos"
+            }
+        ],
+        "maturity_level": null,
+        "url": "http://www.servicos.al.gov.br/servico/592ec6cd8c36c7699b842d27/solicitacao-de-credenciamento",
+        "latest_updater": null,
+        "date": null,
+        "organ": "590880628c36c708368e836e"
+    },
+    {
+        "id": "592ef6dd8c36c7112448f28b",
+        "name": "Programas Assistenciais",
+        "active": true,
+        "description": "Este serviço é referente as ações realizadas mensalmente, como forma de alertar os usuários sobre os cuidados das doenças existentes através de palestras, workshop e distribuição de material informativo.",
+        "popular_names": [
+            {
+                "name": "Ações de promoção da saúde e prevenção das doenças"
+            }
+        ],
+        "maturity_level": null,
+        "url": "http://www.servicos.al.gov.br/servico/592ef6dd8c36c7112448f28b/programas-assistenciais",
+        "latest_updater": null,
+        "date": null,
+        "organ": "590880628c36c708368e836e"
+    },
+    {
+        "id": "592efc448c36c770731ffd06",
+        "name": "Solicitação de pagamento",
+        "active": true,
+        "description": "Este serviço é referente ao processo de pagamento para a rede credenciada do plano. ",
+        "popular_names": [
+            {
+                "name": "Pagamento dos credenciados"
+            },
+            {
+                "name": "Solicitação para pagamento dos prestadores"
+            },
+            {
+                "name": "Pagamento da Rede Credenciada"
+            }
+        ],
+        "maturity_level": null,
+        "url": "http://www.servicos.al.gov.br/servico/592efc448c36c770731ffd06/solicitacao-de-pagamento",
+        "latest_updater": null,
+        "date": null,
+        "organ": "590880628c36c708368e836e"
+    },
+    {
+        "id": "592efd948c36c770731ffd08",
+        "name": "Consulta de processos (Protocolo)",
+        "active": true,
+        "description": "Este serviço é referente a consulta de processos. Sua disponibilidade é oferecida pelo site (http://integra.gestaopublica.al.gov.br/integra/) ou pelo próprio setor de protocolo do Ipaseal Saúde.",
+        "popular_names": [
+            {
+                "name": "Ver processos"
+            }
+        ],
+        "maturity_level": null,
+        "url": "http://www.servicos.al.gov.br/servico/592efd948c36c770731ffd08/consulta-de-processos-protocolo",
+        "latest_updater": null,
+        "date": null,
+        "organ": "590880628c36c708368e836e"
+    },
+    {
+        "id": "592effc68c36c770731ffd0a",
+        "name": "Perícia Odontológica",
+        "active": true,
+        "description": "Este serviço é referente ao usuário  que necessita realizar algum procedimento odontológico. As perícias são realizadas no 5º andar do Centro Clinico do Ipaseal Saúde. O procedimento é feito antes e depois do tratamento feito pelo usuário com o odontólogo credenciado. ",
+        "popular_names": [
+            {
+                "name": "Perícia"
+            },
+            {
+                "name": "Perícia Odontológica"
+            }
+        ],
+        "maturity_level": null,
+        "url": "http://www.servicos.al.gov.br/servico/592effc68c36c770731ffd0a/pericia-odontologica",
+        "latest_updater": null,
+        "date": null,
+        "organ": "590880628c36c708368e836e"
+    },
+    {
+        "id": "592f0afa8c36c71e3e2b0b53",
+        "name": "Perícia Médica",
+        "active": true,
+        "description": "Este serviço é referente a alguns exames que precisam passar por avaliação médica para obter a autorização.",
+        "popular_names": [
+            {
+                "name": "Perícia"
+            }
+        ],
+        "maturity_level": null,
+        "url": "http://www.servicos.al.gov.br/servico/592f0afa8c36c71e3e2b0b53/pericia-medica",
+        "latest_updater": null,
+        "date": null,
+        "organ": "590880628c36c708368e836e"
+    },
+    {
+        "id": "592f18cd8c36c71f9ce7bf33",
+        "name": "Solicitação de Reembolso",
+        "active": true,
+        "description": "O usuário poderá ser reembolsado por consultas, despesas Hospitalares (cirurgia), exames, honorário médico e odontológia quando devido.",
+        "popular_names": null,
+        "maturity_level": null,
+        "url": "http://www.servicos.al.gov.br/servico/592f18cd8c36c71f9ce7bf33/solicitacao-de-reembolso",
+        "latest_updater": null,
+        "date": null,
+        "organ": "590880628c36c708368e836e"
+    },
+    {
+        "id": "59302f8a8c36c7519c6e47ca",
+        "name": "Segunda via de pagamento da mensalidade do plano",
+        "active": true,
+        "description": "Este serviço é referente a emissão da guia de pagamento para usuários quando necessitarem de 2 via do boleto.",
+        "popular_names": [
+            {
+                "name": "Guia de pagamento"
+            },
+            {
+                "name": "2ª via do boleto"
+            }
+        ],
+        "maturity_level": null,
+        "url": "http://www.servicos.al.gov.br/servico/59302f8a8c36c7519c6e47ca/segunda-via-de-pagamento-da-mensalidade-do-plano",
+        "latest_updater": null,
+        "date": null,
+        "organ": "590880628c36c708368e836e"
+    },
+    {
+        "id": "593030d38c36c7519c6e47cc",
+        "name": "Alteração de Dependente",
+        "active": true,
+        "description": "Este serviço é referente a inclusão e exclusão de dependentes no plano de saúde.",
+        "popular_names": [
+            {}
+        ],
+        "maturity_level": null,
+        "url": "http://www.servicos.al.gov.br/servico/593030d38c36c7519c6e47cc/alteracao-de-dependente",
+        "latest_updater": null,
+        "date": null,
+        "organ": "590880628c36c708368e836e"
+    },
+    {
+        "id": "593032da8c36c7519c6e47ce",
+        "name": "Bloqueio de Dependente",
+        "active": true,
+        "description": "Este serviço é referente ao bloqueio de dependente solicitado pelo titular. ",
+        "popular_names": null,
+        "maturity_level": null,
+        "url": "http://www.servicos.al.gov.br/servico/593032da8c36c7519c6e47ce/bloqueio-de-dependente",
+        "latest_updater": null,
+        "date": null,
+        "organ": "590880628c36c708368e836e"
+    },
+    {
+        "id": "59303e8f8c36c75a9871023c",
+        "name": "Autorização de consultas / exames",
+        "active": true,
+        "description": "Este serviço é destinado aos usuários que necessitam de autorização para realizar determinados exames médicos nas clínicas de saúde. O mesmo ao ser informado pelo prestador deverá encaminhar ao 1º andar do Centro Clínico no sertor de Autorização de Exames, para obetenção da Guia de autorização.",
+        "popular_names": [
+            {
+                "name": "Autorização de Exames"
+            }
+        ],
+        "maturity_level": null,
+        "url": "http://www.servicos.al.gov.br/servico/59303e8f8c36c75a9871023c/autorizacao-de-consultas-exames",
+        "latest_updater": null,
+        "date": null,
+        "organ": "590880628c36c708368e836e"
+    },
+    {
+        "id": "59303f428c36c7519c6e47d1",
+        "name": "Autorização de Internamento",
+        "active": true,
+        "description": "Este serviço é direcionado ao usuário que precisa ficar internado no hospital. A família ao ser informada pelo hospital da necissidade de internamento, irá se dirigir ao 1º andar do Centro Clínico do Ipaseal Saúde no setor de Autorização de exames e solicitar a Guia de Internamento. O documento de autorização contém as informações do usuário do plano além da quantidade de dias que o paciente ficar internado.",
+        "popular_names": [
+            {
+                "name": "Autorizar internamento"
+            }
+        ],
+        "maturity_level": null,
+        "url": "http://www.servicos.al.gov.br/servico/59303f428c36c7519c6e47d1/autorizacao-de-internamento",
+        "latest_updater": null,
+        "date": null,
+        "organ": "590880628c36c708368e836e"
+    },
+    {
+        "id": "593049aa8c36c7519c6e47d3",
+        "name": "Novas Adesões",
+        "active": false,
+        "description": "Este serviço é oferecido para as pessoas que desejam entrar no Plano Ipaseal Saúde",
+        "popular_names": [
+            {
+                "name": "Inclusão do plano"
+            }
+        ],
+        "maturity_level": null,
+        "url": "http://www.servicos.al.gov.br/servico/593049aa8c36c7519c6e47d3/novas-adesoes",
+        "latest_updater": null,
+        "date": null,
+        "organ": "590880628c36c708368e836e"
+    },
+    {
+        "id": "598876708c36c7755f50b43a",
+        "name": "Tratamentos odontológicos",
+        "active": true,
+        "description": "Para quem adquirir o Plano com odontológico, é oferecido tratamento completo nos consultórios credenciados, sem co-participação e após a conclusão do seu tratamento, o usuário participa do Projeto SEJA - Serviço de Escovação para Jovens e Adultos, onde receberá Orientação de Saúde Bucal, profilaxia (limpeza dos dentes) e nos casos de necessidade, a dessensibilização, limpeza de tártaros e alguns procedimentos de urgência. Nosso objetivo é oferecer dinamismo no atendimento odontológico do usuário Ipaseal Saúde\n",
+        "popular_names": null,
+        "maturity_level": null,
+        "url": "http://www.servicos.al.gov.br/servico/598876708c36c7755f50b43a/tratamentos-odontologicos",
+        "latest_updater": null,
+        "date": null,
+        "organ": "590880628c36c708368e836e"
+    }
+]
