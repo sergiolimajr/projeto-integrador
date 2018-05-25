@@ -1,4 +1,4 @@
-{
+pifeed_callback({
   "type": "FeatureCollection",
   "crs": {
     "type": "name",
@@ -536,4 +536,4 @@
       }
     }
   ]
-}
+});
